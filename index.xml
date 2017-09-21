@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title></title>
+<title>ANIMADAS Y SERIES</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/luisboz/Darkboz/master/ANIMADAS%20Y%20SERIES.xml</externallink>
 </item>
  
 <item>
-<title>cocina 2</title>
+<title>PELICULAS</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/luisboz/Darkboz/master/PELICULAS.xml</externallink>
 </item>
  
 <item>
-<title></title>
+<title>MULTIMPLEX</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://github.com/luisboz/Darkboz/blob/master/multimplex.xml</externallink>
 </item>
 
 <item>
-<title></title>
+<title>SERIES</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://github.com/luisboz/Darkboz/blob/master/series.xml</externallink>
 </item>

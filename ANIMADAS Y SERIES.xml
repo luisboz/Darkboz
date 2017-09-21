@@ -1,27 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-<channel>
-    <name>[COLOR azure][B]ðŸ’˜D A R K B O ZðŸ’˜[/B][/COLOR]</name>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-        <items>
-           <items_info> <!-- this is opitonal -->
-      <title>FreeMedia </title>
-      <genre></genre>
-      <description></description>
-      <thumbnail></thumbnail>
-      <fanart></fanart>
-      <date></date>
-      <credits></credits>
-    </items_info>
-
-	
-	     
-<item><title>			 [COLOR dodgerblue][B]D A R K [/COLOR] [COLOR yellow]B O Z[/COLOR][/B]</title><link>http://ignorame</link><externallink>http://not link</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 
 <item>
 <title>[B][COLOR darkturquoise]Denzel-Washington [/COLOR][/B]</title>
