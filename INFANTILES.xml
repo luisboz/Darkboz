@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+           
+
+<item>
+<title>[B][COLOR aqua]Disney[/COLOR][COLOR blue] [/COLOR][COLOR deeppink] Studios[/COLOR][COLOR yellow] Sala-1[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[B][COLOR aqua] [makelist.param3][/COLOR][/B]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>http://images1.wikia.nocookie.net/__cb20110812231250/thelogo/images/8/8c/Disney_Animation_Studios_2011_0001.jpg</thumbnail>
+<fanart>http://www.walldevil.com/wallpapers/a95/animation-disney-wallpapers-wallpaper-photos.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/gemma-valencia/peliculas-disney-en-castellano-32479/list,1,10</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/gemma-valencia/peliculas-disney-en-castellano-32479/list,1,10</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://images1.wikia.nocookie.net/__cb20110812231250/thelogo/images/8/8c/Disney_Animation_Studios_2011_0001.jpg</thumbnail>
+<fanart>http://www.walldevil.com/wallpapers/a95/animation-disney-wallpapers-wallpaper-photos.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR aqua]Disney[/COLOR][COLOR blue] [/COLOR][COLOR deeppink] Studios[/COLOR][COLOR yellow] Sala-2[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[B][COLOR aqua] [makelist.param3][/COLOR][/B]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>http://images1.wikia.nocookie.net/__cb20110812231250/thelogo/images/8/8c/Disney_Animation_Studios_2011_0001.jpg</thumbnail>
+<fanart>http://www.walldevil.com/wallpapers/a95/animation-disney-wallpapers-wallpaper-photos.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/peliculas-de-walt-disneyel-rockero-30020/list,1,5</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/peliculas-de-walt-disneyel-rockero-30020/list,1,5</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://images1.wikia.nocookie.net/__cb20110812231250/thelogo/images/8/8c/Disney_Animation_Studios_2011_0001.jpg</thumbnail>
+<fanart>http://www.walldevil.com/wallpapers/a95/animation-disney-wallpapers-wallpaper-photos.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR aqua]Disney[/COLOR][COLOR blue] [/COLOR][COLOR deeppink] Studios[/COLOR][COLOR yellow] Sala-3[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[B][COLOR aqua] [makelist.param3][/COLOR][/B]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>http://images1.wikia.nocookie.net/__cb20110812231250/thelogo/images/8/8c/Disney_Animation_Studios_2011_0001.jpg</thumbnail>
+<fanart>http://www.walldevil.com/wallpapers/a95/animation-disney-wallpapers-wallpaper-photos.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/pupurb/cine-infantil-28280/list,1,22</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/pupurb/cine-infantil-28280/list,1,22</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://images1.wikia.nocookie.net/__cb20110812231250/thelogo/images/8/8c/Disney_Animation_Studios_2011_0001.jpg</thumbnail>
+<fanart>http://www.walldevil.com/wallpapers/a95/animation-disney-wallpapers-wallpaper-photos.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR aqua]Disney[/COLOR][COLOR blue] [/COLOR][COLOR deeppink] Studios[/COLOR][COLOR yellow] Sala-4[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[B][COLOR aqua] [makelist.param3][/COLOR][/B]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>http://images1.wikia.nocookie.net/__cb20110812231250/thelogo/images/8/8c/Disney_Animation_Studios_2011_0001.jpg</thumbnail>
+<fanart>http://www.walldevil.com/wallpapers/a95/animation-disney-wallpapers-wallpaper-photos.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/djbits/cine-infantil-25681/list,1,5</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/djbits/cine-infantil-25681/list,1,5</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://images1.wikia.nocookie.net/__cb20110812231250/thelogo/images/8/8c/Disney_Animation_Studios_2011_0001.jpg</thumbnail>
+<fanart>http://www.walldevil.com/wallpapers/a95/animation-disney-wallpapers-wallpaper-photos.jpg</fanart>
+</item>
+
+
+		   
+<item>
+<title>[B][COLOR aqua]Disney[/COLOR][COLOR blue] [/COLOR][COLOR deeppink] Studios[/COLOR][COLOR yellow] Sala-5[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[B][COLOR aqua] [makelist.param3][/COLOR][/B]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>http://images1.wikia.nocookie.net/__cb20110812231250/thelogo/images/8/8c/Disney_Animation_Studios_2011_0001.jpg</thumbnail>
+<fanart>http://www.walldevil.com/wallpapers/a95/animation-disney-wallpapers-wallpaper-photos.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/movies/disneydreamworks-animated-collection-1937-2009-1188/list,1,8</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/movies/disneydreamworks-animated-collection-1937-2009-1188/list,1,8</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://images1.wikia.nocookie.net/__cb20110812231250/thelogo/images/8/8c/Disney_Animation_Studios_2011_0001.jpg</thumbnail>
+<fanart>http://www.walldevil.com/wallpapers/a95/animation-disney-wallpapers-wallpaper-photos.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR aqua]Disney[/COLOR][COLOR blue] [/COLOR][COLOR deeppink] Studios[/COLOR][COLOR yellow] Sala-6[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[B][COLOR aqua] [makelist.param3][/COLOR][/B]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>http://images1.wikia.nocookie.net/__cb20110812231250/thelogo/images/8/8c/Disney_Animation_Studios_2011_0001.jpg</thumbnail>
+<fanart>http://www.walldevil.com/wallpapers/a95/animation-disney-wallpapers-wallpaper-photos.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/naredo/animacion-20219/list,1,3</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/naredo/animacion-20219/list,1,3</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://images1.wikia.nocookie.net/__cb20110812231250/thelogo/images/8/8c/Disney_Animation_Studios_2011_0001.jpg</thumbnail>
+<fanart>http://www.walldevil.com/wallpapers/a95/animation-disney-wallpapers-wallpaper-photos.jpg</fanart>
+</item>
+	
+	
+
+<item>
+<title>[B][COLOR aqua]Disney[/COLOR][COLOR blue] [/COLOR][COLOR deeppink] Studios[/COLOR][COLOR yellow] Sala-7[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[B][COLOR aqua] [makelist.param3][/COLOR][/B]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>http://images1.wikia.nocookie.net/__cb20110812231250/thelogo/images/8/8c/Disney_Animation_Studios_2011_0001.jpg</thumbnail>
+<fanart>http://www.walldevil.com/wallpapers/a95/animation-disney-wallpapers-wallpaper-photos.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/gemma-valencia/peliculas-barbie-en-castellano-36877/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/gemma-valencia/peliculas-barbie-en-castellano-36877/list,1,2</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://images1.wikia.nocookie.net/__cb20110812231250/thelogo/images/8/8c/Disney_Animation_Studios_2011_0001.jpg</thumbnail>
+<fanart>http://www.walldevil.com/wallpapers/a95/animation-disney-wallpapers-wallpaper-photos.jpg</fanart>
+</item>
