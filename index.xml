@@ -1,41 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>ANIMADAS Y SERIES</title>
+<title>ADDONS FULL</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/luisboz/Darkboz/master/ANIMADAS%20Y%20SERIES.xml</externallink>
+<externallink>https://raw.githubusercontent.com/luisboz/Darkboz/master/ADDONS%20FULL.xml</externallink>
 </item>
  
-<item>
-<title>PELICULAS</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/luisboz/Darkboz/master/PELICULAS.xml</externallink>
-</item>
- 
-<item>
-<title>MULTIMPLEX</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://github.com/luisboz/Darkboz/blob/master/multimplex.xml</externallink>
-</item>
-
-<item>
-<title>SERIES</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://github.com/luisboz/Darkboz/blob/master/series.xml</externallink>
-</item>
-
-<item>
-<title>INFANTILES</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://github.com/luisboz/Darkboz/blob/master/INFANTILES.xml</externallink>
-</item>
