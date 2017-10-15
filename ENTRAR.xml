@@ -832,143 +832,40 @@
 <thumbnail></thumbnail><fanart></fanart>
 </item>
 
- <item>
-<title>[B][COLOR yellow]COMEDY MOVIE[/COLOR][/B]</title>
-<link>http://ignora.me</link>
-<externallink>https://pastebin.com/raw/xWyND2EF</externallink>
-<thumbnail></thumbnail><fanart></fanart>
-</item>
-
 <item>
-<title>[COLOR gold][B]YOUTUBE[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR yellow]THE LOONEY TUNES[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=Trnbv4d-JBs&t=910s</link>
-<thumbnail>http://nick-intl.mtvnimages.com/uri/mgid:file:gsp:kids-assets:/nick/properties/spongebob-squarepants/spongebob-squarepants-show-cover.jpg?quality=0.75&height=0&width=480&matte=true&crop=false</thumbnail>
-</item>
-
-<item>
-<title>[COLOR pink]DIBUJOS ANIMADOS[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=5EQMqOMHm74</link>
-<thumbnail>http://nick-intl.mtvnimages.com/uri/mgid:file:gsp:kids-assets:/nick/properties/spongebob-squarepants/spongebob-squarepants-show-cover.jpg?quality=0.75&height=0&width=480&matte=true&crop=false</thumbnail>
-</item>
-
-<item>
-<title>[COLOR cyan]DONALD DUCK[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=lfGnTvNSmZE</link>
-<thumbnail>http://nick-intl.mtvnimages.com/uri/mgid:file:gsp:kids-assets:/nick/properties/spongebob-squarepants/spongebob-squarepants-show-cover.jpg?quality=0.75&height=0&width=480&matte=true&crop=false</thumbnail>
-</item>
-
-<item>
-<title>[COLOR gold]CARTOONS COMPILATION-1[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=GJ8qSYZ2vRM</link>
-<thumbnail>http://nick-intl.mtvnimages.com/uri/mgid:file:gsp:kids-assets:/nick/properties/spongebob-squarepants/spongebob-squarepants-show-cover.jpg?quality=0.75&height=0&width=480&matte=true&crop=false</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR dodgerblue]CARTOONS COMPILATION-2[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=6zJsPwS0h1I</link>
-<thumbnail>http://nick-intl.mtvnimages.com/uri/mgid:file:gsp:kids-assets:/nick/properties/spongebob-squarepants/spongebob-squarepants-show-cover.jpg?quality=0.75&height=0&width=480&matte=true&crop=false</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR salmon]EL OSO YOGHI[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=Gisr8z18aCs</link>
-<thumbnail>http://nick-intl.mtvnimages.com/uri/mgid:file:gsp:kids-assets:/nick/properties/spongebob-squarepants/spongebob-squarepants-show-cover.jpg?quality=0.75&height=0&width=480&matte=true&crop=false</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR lime][B]_______________________________________________________[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR dodgerblue][B]SPORT-DEVIL TV 24/7[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>PELICULAS DE ACCION</title>
-<sportsdevil>https://www.arconaitv.me/action/</sportsdevil>
-<referer>https://www.arconaitv.me</referer>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BREAKING BAD</title>
-<sportsdevil>https://www.arconai.tv/stream.php?id=24</sportsdevil>
-<referer>https://www.arconaitv.me</referer>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]_______________________________________________________[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]SPORT-DEVIL TV CHANNELS[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MSNBC</title> 
-<sportsdevil>http://www.sdwnet.me/channels/MSNBC.html</sportsdevil> 
-<referer>http://www.shadow-net.org</referer>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>PAW-PATROL-GRAN-CARRERA</title>
-<sportsdevil>http://la.nickjr.tv/blaze-and-the-monster-machines/videos/incendio-full-video/</sportsdevil>
-<referer>http://la.nickjr.tv/paw-patrol/</referer>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]TELEVISION [COLOR skyblue]24/7[/COLOR][/COLOR] [/B] [COLOR lightslategray] [/COLOR]</title>
-<link>$doregex[makelist]</link>
+<title>[B][COLOR white]DISKOKOSMICO-BOZ[/COLOR][/B]</title>
+<link>$doregex[makelist3]</link>
 <regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param2]</title>
-<link>https://hls-ord-1a.vaughnsoft.net/ams/live/live_[makelist.param1]/chunklist.m3u8</link>
-
-
-<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
-<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-]]></listrepeat>
-<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
-<page>https://vaughnlive.tv/browse/espanol&amp;a=mvn</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer></referer>
+  <name>makelist3</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR skyblue][makelist3.param2] - [makelist3.param3][/COLOR][/COLOR][/B]</title>
+        <link>$doregex[makelist2]</link>
+http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/movies/fanart.PNG
+        ]]></listrepeat>
+<expres>playlist:"(.*?)" name:"(.*?)" info:"(.*?)";</expres>
+<page>https://pastebin.com/raw/ckTk8v9T</page>
 <cookieJar></cookieJar>
+</regex>
+<regex>
+  <name>makelist2</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR skyblue][makelist2.param2][/COLOR][/COLOR][/B]</title>
+        <link>$doregex[makelist]</link>
+		[makelist2.param3]
+        ]]></listrepeat>
+<expres>class="name" href="(.*?)">(.*?)<[\w\W\s]{0,190}src="(.*?)"</expres>
+<page>[makelist3.param1]</page>
+<cookieJar></cookieJar>
+</regex>
 
-<channel>
-<name>Sin Senos, si Hay Paraiso 2</name>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BM2Y2OGIyMzUtNWY3YS00N2NhLWE4ZTAtOTllMWU1ZmE0MjgxXkEyXkFqcGdeQXVyNDk5MjI2NDI@._V1_.jpg</thumbnail>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/f0/e2/44/f0e244261bafe12b6189e8b743520d33.jpg</fanart>
-<items>
-
-<item>
-<title>[B][COLOR deeppink][COLOR cyan][/COLOR] Sin Senos, si Hay Paraiso 2[/B]</title> @mexflix{
-<link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title> [makelist.param3]</title>
+        <title> [makelist.param3][/COLOR][/B]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BM2Y2OGIyMzUtNWY3YS00N2NhLWE4ZTAtOTllMWU1ZmE0MjgxXkEyXkFqcGdeQXVyNDk5MjI2NDI@._V1_.jpg</thumbnail>
-]]></listrepeat>
+        ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/mexflix17/662sinchichis-si-ayparaisoghuhs6-77619/list,1,2</page>
+<page>http://diskokosmiko.mx[makelist2.param1]/list,1,20</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -978,7 +875,7 @@
 <rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection>
-<accept>*/*</accept>  {{mexflix]]
+<accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
 </regex>
@@ -986,12 +883,87 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/mexflix17/662sinchichis-si-ayparaisoghuhs6-77619</referer>
+<referer>http://diskokosmiko.mx[makelist2.param1]/list,1,15</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
-</regex>  [[[{{mexflix}}]]]
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BM2Y2OGIyMzUtNWY3YS00N2NhLWE4ZTAtOTllMWU1ZmE0MjgxXkEyXkFqcGdeQXVyNDk5MjI2NDI@._V1_.jpg</thumbnail>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/f0/e2/44/f0e244261bafe12b6189e8b743520d33.jpg</fanart>
+</regex>
+http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/movies/fanart.PNG
 </item>
-</items>
-</channel>
+<item>
+<title>[B][COLOR white]SERIES BOZ[/COLOR][/B]</title>  
+<link>$doregex[makelist2]</link>
+<regex>
+  <name>makelist2</name>
+  <listrepeat><![CDATA[
+  <SetViewMode>55</SetViewMode>
+        <title>[makelist2.param1][/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+		[makelist2.param3]
+[makelist2.param3]
+]]></listrepeat>
+<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"</expres>
+<page>https://pastebin.com/raw/VDAzKJAd</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>$pyFunction:('[makelist.param3]').replace('Espa&#241;ol','')[/COLOR][/B]</title>
+        <link>$doregex[getUrl]</link>
+				[makelist2.param3]
+	[makelist2.param3]
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>[makelist2.param2]/list,1,15</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>[makelist2.param4]/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>[makelist2.param4]/[makelist.param2]</page>
+<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+https://i.ytimg.com/vi/tvhgGXCU0Gw/maxresdefault.jpghttps://kfiretv-cn396iwnnfhyi.netdna-ssl.com/wp-content/uploads/2017/04/kodi-17.1-on-firestick-1024x436.jpg
+</item>
+<item>
+<title>[B][COLOR white]SERIES  BOZ 2[/COLOR][/B]</title>
+<link>http://ignora.me</link>
+<externallink>http://legionworldtv.com/master/movies/condor76.m3u</externallink>
+http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/movies/fanart.PNG
+<info></info>
+</item>
+<item>
+<title>[B][COLOR RED]ANIMADOS y SAGAS BOZ[/COLOR][/B]</title>
+<link>http://ignora.me</link>
+<externallink>https://pastebin.com/raw/XMwAL4Ms</externallink>
+http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/movies/fanart.PNG
+<info></info>
+</item>
+<item>
+<item>
+<title>[B][COLOR white]SPORTS-ON DEMAND[/COLOR][/B]</title>
+<link>http://ignora.me</link>
+<externallink>https://pastebin.com/raw/2FcxqG7i</externallink>
+http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/movies/fanart.PNG
+<info></info>
+</item>
+<item>
+<title>[B][COLOR white]TELENOVELAS[/COLOR][/B]</title>
+<link>http://ignora.me</link>
+<externallink>https://pastebin.com/raw/xQiy0MLB</externallink>
+http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/movies/fanart.PNG
+<info></info>
+</item>
