@@ -25,11 +25,9 @@
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Torrents[/B] [/COLOR] [COLOR lightslategray]Peliculas y Series de TV [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>https://imgur.com/a/XAk9P</thumbnail><fanart>https://imgur.com/Gi6QZsJ</fanart>
 <externallink>https://pastebin.com/raw/7WmCRaCG</externallink>
+</item>
 
-<info>[B][COLOR skyblue]»»»   D A R K B O Z  «««[/COLOR]
-[COLOR aquamarine]Donaciones paypal.me/Lmercedesboz[/COLOR][/B]</info>
-</item
- 
+ <item>
 <title>[COLOR white][B]SERIES EN AUDIO LATINO[/B][/COLOR]</title>
 <link>$doregex[makelist2]</link>
 <regex>
