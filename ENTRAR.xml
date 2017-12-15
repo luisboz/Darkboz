@@ -36,7 +36,7 @@
 
 
 <item>
-<title>[COLOR white]P E L I C U L A S B O Z[/B][/COLOR]</title>
+<title>[COLOR white][B]P E L I C U L A S B O Z [/B][/COLOR]</title>
 <link>http://ignorame</link><thumbnail></thumbnail><fanart></fanart>
 <externallink>https://pastebin.com/raw/kExBWZNY</externallink>
 <info></info></item>
@@ -838,3 +838,13 @@ http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/m
 <link>http://ignorame</link><thumbnail>https://imgur.com/a/XAk9P</thumbnail><fanart>https://imgur.com/Gi6QZsJ</fanart>
 <externallink>https://pastebin.com/raw/7WmCRaCG</externallink>
 </item>
+
+<channels> 
+<channel>
+      <name>[COLOR cyan][COLOR  lime][/COLOR]TELEVISION INFANTIL[/COLOR]</name>
+  <thumbnail>http://www.protoweb.cl/ProtoIPTV/img/infantil.png</thumbnail>
+<fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/YhEUu2Kn</externallink>
+</channel>
+  </channels>
