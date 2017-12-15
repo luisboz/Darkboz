@@ -839,12 +839,8 @@ http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/m
 <externallink>https://pastebin.com/raw/7WmCRaCG</externallink>
 </item>
 
-<channels> 
-<channel>
-      <name>[COLOR cyan][COLOR  lime][/COLOR]TELEVISION INFANTIL[/COLOR]</name>
-  <thumbnail>http://www.protoweb.cl/ProtoIPTV/img/infantil.png</thumbnail>
-<fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/YhEUu2Kn</externallink>
-</channel>
-  </channels>
+<item>
+<title>[COLOR lime][/COLOR][COLOR deepskyblue][B]TELEVISION[/B][/COLOR][COLOR lightslategray]INFANTIL [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://www.protoweb.cl/ProtoIPTV/img/infantil.png</thumbnail><fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
+<externallink>https://pastebin.com/raw/YhEUu2Kn</externallink>
+</item>
