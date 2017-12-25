@@ -90,12 +90,6 @@
 <info></info>
 
 <item>
-<title>[COLOR white][B] TOTAL PLAY[/B][/COLOR]</title>
-<link>http://ignorame</link><thumbnail></thumbnail><fanart></fanart>
-<externallink>https://pastebin.com/raw/Mde6HWqg</externallink>
-<info></info></item>
-
-<item>
 <title>[COLOR white][B]ZONA DE MUSICA[/B][/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>http://legionworldtv.com/master/movies/main/amusic.xml</externallink>
@@ -856,28 +850,33 @@ http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/m
 <title>• ESTRENOS 2017 </title>
 <link>plugin://plugin.video.youtube/play/?video_id=Ac8XyQbIWiI</link>
 <thumbnail></thumbnail>
-</item><title>• PELICULAS LATINO</title>
+</item>
+<item>
+<title>• PELICULAS LATINO</title>
 <link>plugin://plugin.video.youtube/play/?video_id=P0gIecGRFV0</link>
 <thumbnail></thumbnail>
 </item>
+<item>
 <title>• CINE 24/7</title>
 <link>plugin://plugin.video.youtube/play/?video_id=FDOYA1NqCsY</link>
 <thumbnail></thumbnail>
 </item>
+<item>
 <title>• PELIS LIVE </title>
 <link>plugin://plugin.video.youtube/play/?video_id=vkcXGTb8K8</link>
 <thumbnail></thumbnail>
 </item>
-</item>
+<item>
 <title>• PELICULAS ESPANOL</title>
 <link>plugin://plugin.video.youtube/play/?video_id=9t3K1h30mbU</link>
 <thumbnail></thumbnail>
 </item>
+<item>
 <title>• YOU MOVIE</title>
 <link>plugin://plugin.video.youtube/play/?video_id=mKbVhHnWlFI</link>
 <thumbnail></thumbnail>
 </item>
-</item>
+<item>
 <title>• ACTION MOVIE</title>
 <link>plugin://plugin.video.youtube/play/?video_id=9fJ0e-lCdQ0</link>
 <thumbnail></thumbnail>
