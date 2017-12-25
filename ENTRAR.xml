@@ -78,16 +78,23 @@
 <title>[COLOR white][B]LISTAS DE IPTV[/B][/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>https://pastebin.com/raw/yzTEW4Vg</externallink>
-<thumbnail>https://goo.gl/kj4fnn</thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<thumbnail></thumbnail><fanart></fanart>
 <info></info>
 
 <item>
 <title>[COLOR white][B]BOZ PRODUCCIONES DE TV[/B][/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>https://pastebin.com/raw/YcweSL9H</externallink>
-<thumbnail>https://goo.gl/orZp5y</thumbnail>
-<fanart>https://goo.gl/Wbhu75</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <info></info>
+
+<item>
+<title>[COLOR white][B] TOTAL PLAY[/B][/COLOR]</title>
+<link>http://ignorame</link><thumbnail></thumbnail><fanart></fanart>
+<externallink>https://pastebin.com/raw/sAqMb47p</externallink>
+<info>[B][COLOR skyblue]»»»   D A R K B O Z  «««[/COLOR]
+[COLOR aquamarine]http://youtube.com/LUISMMBOZ[/COLOR][/B]</info></item>
 
 <item>
 <title>[COLOR white][B]ZONA DE MUSICA[/B][/COLOR]</title>
@@ -157,7 +164,7 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://goo.gl/MXR3Uk</thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<thumbnail></thumbnail><fanart></fanart>
 </item>
 
 
@@ -815,6 +822,37 @@
 <externallink>https://pastebin.com/raw/XMwAL4Ms</externallink>
 http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/movies/fanart.PNG
 <info></info>
+</item>
+
+<item>
+<title>[COLOR aquamarine][B]VAUGHNLIVE 24/7[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>https://hls.vaughnsoft.net/ord/live/live_[makelist.param1]/chunklist.m3u8</link>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
+]]></listrepeat>
+<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
+<page>https://vaughnlive.tv/browse/espanol&amp;a=mvn</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail><fanart></fanart>
+<info></info></item>
+
+<item>
+<title>[B][COLOR red]YOUTUBE MOVIE 24/7[/COLOR][/B]</title>
+<link>http://ignora.me</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>PELICULAS BOZ ACCION 24/7</title>
+<link>plugin://plugin.video.youtube/play/?video_id=9umShS5zkAQ</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
