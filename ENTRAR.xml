@@ -92,15 +92,14 @@
 <item>
 <title>[COLOR white][B] TOTAL PLAY[/B][/COLOR]</title>
 <link>http://ignorame</link><thumbnail></thumbnail><fanart></fanart>
-<externallink>https://pastebin.com/raw/sAqMb47p</externallink>
-<info>[B][COLOR skyblue]»»»   D A R K B O Z  «««[/COLOR]
-[COLOR aquamarine]http://youtube.com/LUISMMBOZ[/COLOR][/B]</info></item>
+<externallink>https://pastebin.com/raw/Mde6HWqg</externallink>
+<info></info></item>
 
 <item>
 <title>[COLOR white][B]ZONA DE MUSICA[/B][/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>http://legionworldtv.com/master/movies/main/amusic.xml</externallink>
-<thumbnail>https://goo.gl/o4cKY7</thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<thumbnail></thumbnail><fanart></fanart>
 <info></info>
 
 <item>
@@ -848,10 +847,39 @@ http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/m
 <link>http://ignora.me</link>
 <thumbnail></thumbnail>
 </item>
-
 <item>
-<title>PELICULAS BOZ ACCION 24/7</title>
+<title>• PELICULAS BOZ ACCION 24/7</title>
 <link>plugin://plugin.video.youtube/play/?video_id=9umShS5zkAQ</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>• ESTRENOS 2017 </title>
+<link>plugin://plugin.video.youtube/play/?video_id=Ac8XyQbIWiI</link>
+<thumbnail></thumbnail>
+</item><title>• PELICULAS LATINO</title>
+<link>plugin://plugin.video.youtube/play/?video_id=P0gIecGRFV0</link>
+<thumbnail></thumbnail>
+</item>
+<title>• CINE 24/7</title>
+<link>plugin://plugin.video.youtube/play/?video_id=FDOYA1NqCsY</link>
+<thumbnail></thumbnail>
+</item>
+<title>• PELIS LIVE </title>
+<link>plugin://plugin.video.youtube/play/?video_id=vkcXGTb8K8</link>
+<thumbnail></thumbnail>
+</item>
+</item>
+<title>• PELICULAS ESPANOL</title>
+<link>plugin://plugin.video.youtube/play/?video_id=9t3K1h30mbU</link>
+<thumbnail></thumbnail>
+</item>
+<title>• YOU MOVIE</title>
+<link>plugin://plugin.video.youtube/play/?video_id=mKbVhHnWlFI</link>
+<thumbnail></thumbnail>
+</item>
+</item>
+<title>• ACTION MOVIE</title>
+<link>plugin://plugin.video.youtube/play/?video_id=9fJ0e-lCdQ0</link>
 <thumbnail></thumbnail>
 </item>
 
