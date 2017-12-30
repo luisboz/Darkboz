@@ -35,32 +35,41 @@
 <info></info></item>
 
 <item>
-<title>[COLOR white][B]CANALES DE DEPORTES[/B][/COLOR]</title>
+<title>[COLOR white][B]CANALES DE PREMIUM[/B][/COLOR]</title>
 <link>http://ignora.me</link>
-<externallink>https://pastebin.com/raw/PdWLqdt1</externallink>
+<externallink>https://pastebin.com/raw/LL87vwR8</externallink>
 <thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
 <info></info>
 
 <item>
-<title>[COLOR white][B]MEGA LISTA DE CANALES[/B][/COLOR]</title>
+<title>[COLOR white][B]SERIES Y PELICULAS[/B][/COLOR]</title>
 <link>http://ignora.me</link>
-<externallink>https://pastebin.com/raw/3TJKAKDh</externallink>
+<externallink>https://pastebin.com/raw/auR4CFYi</externallink>
 <thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
 <info></info>
 
 <item>
-<title>[COLOR white][B]CANALES PREMIUMS[/B][/COLOR]</title>
+<title>[COLOR white][B]CANALES VARIADOS[/B][/COLOR]</title>
 <link>http://ignora.me</link>
-<externallink>https://pastebin.com/raw/kXTD9Fzd</externallink>
+<externallink>https://pastebin.com/raw/1MCndKK8</externallink>
 <thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
 <info></info>
 
 <item>
-<title>[COLOR white][B]CANALES MUNDO Y CULTURA[/B][/COLOR]</title>
+<title>[COLOR white][B]CINEMA FLUXUS[/B][/COLOR]</title>
 <link>http://ignora.me</link>
-<externallink>https://pastebin.com/raw/D2PbZpqP</externallink>
+<externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/cinema.m3u</externallink>
 <thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
 <info></info>
+
+<item>
+<title>[COLOR white][B]CANALES VARIADOS 2[/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>https://pastebin.com/raw/GqH2dUZM</externallink>
+<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<info></info>
+
+
 
 
 
@@ -862,11 +871,6 @@ http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/m
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>• PELIS LIVE </title>
-<link>plugin://plugin.video.youtube/play/?video_id=vkcXGTb8K8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
 <title>• PELICULAS ESPANOL</title>
 <link>plugin://plugin.video.youtube/play/?video_id=9t3K1h30mbU</link>
 <thumbnail></thumbnail>
@@ -874,11 +878,6 @@ http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/m
 <item>
 <title>• YOU MOVIE</title>
 <link>plugin://plugin.video.youtube/play/?video_id=mKbVhHnWlFI</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>• ACTION MOVIE</title>
-<link>plugin://plugin.video.youtube/play/?video_id=9fJ0e-lCdQ0</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -908,3 +907,10 @@ http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/m
 <link>http://ignorame</link><thumbnail></thumbnail><fanart></fanart>
 <externallink>https://pastebin.com/raw/kExBWZNY</externallink>
 <info></info></item>
+<item>
+
+<title>[B][COLOR line]TECNOTV/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail></thumbnail>
+<externallink>http://tecnotv.xyz/addon/index.xml?NoUsesSinPermiso</externallink><fanart></fanart>
+<info>[B][COLOR skyblue]»»»   D A R K B O Z  «««[/COLOR]
+[COLOR aquamarine]http://youtube.com/LUISMMBOZ[/COLOR][/B]</info></item>
