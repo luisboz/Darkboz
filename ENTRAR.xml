@@ -35,6 +35,20 @@
 <info></info></item>
 
 <item>
+<title>[COLOR white][B]CANALES RAGNAROKTV[/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>https://pastebin.com/raw/832sFzWJ</externallink>
+<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<info></info>
+
+<item>
+<title>[COLOR white][B]PELICULAS CECEGEEK[/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>https://pastebin.com/raw/1Xt8FaAD</externallink>
+<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<info></info>
+
+<item>
 <title>[COLOR white][B]CANALES DE PREMIUM[/B][/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>https://pastebin.com/raw/LL87vwR8</externallink>
@@ -433,49 +447,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<item>
-<title>[COLOR white][B]»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
-</item>
 
-<item>
-<title>[COLOR white][B]SUPER CINE[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR white]  [makelist.param3][/COLOR] </title>
-        <link>$doregex[getUrl]</link>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
-        ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/IngArturo/super-coleccion-de-pelis-audio-latino-20342/list,1,15</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/trivianita/peliculas-cristianasel-rockero-39307/list,1,3</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 <item>
 <title>[COLOR white][B]»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»[/B][/COLOR]</title>
 <link>http://diskokosmiko.mx</link>
