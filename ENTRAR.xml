@@ -50,9 +50,9 @@
 
 
 <item>
-<title>[COLOR white][B]CANALES RAGNAROKTV[/B][/COLOR]</title>
+<title>[COLOR white][B]CANALES MIXTOS[/B][/COLOR]</title>
 <link>http://ignora.me</link>
-<externallink>http://ragnaroktv.com/tv/lista.m3u</externallink>
+<externallink>https://pastebin.com/raw/agY57p2z</externallink>
 <thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
 <info></info>
 
@@ -145,6 +145,58 @@
 <externallink>http://legionworldtv.com/master/movies/main/amusic.xml</externallink>
 <thumbnail></thumbnail><fanart></fanart>
 <info></info>
+
+<item>
+<title>[COLOR white][B]»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»[/B][/COLOR]</title>
+<link>http://diskokosmiko.mx</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR yellow]ANIMADOS Y SAGAS BOZ[/COLOR][/B]</title>
+<link>http://ignora.me</link>
+<externallink>https://pastebin.com/raw/XMwAL4Ms</externallink>
+http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/movies/fanart.PNG
+<info></info>
+</item>
+
+<item>
+<title>[COLOR aquamarine][B]TELEVISION 24/7[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>https://clutch.vaughnsoft.net/ord/vl/[makelist.param1].m3u8</link>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
+]]></listrepeat>
+<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
+<page>https://vaughnlive.tv/browse/espanol&amp;a=mvn</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail><fanart></fanart>
+<info></info></item>
+
+
+
+
+<item>
+<title>[B][COLOR yellow]SPORTS-ON DEMAND[/COLOR][/B]</title>
+<link>http://ignora.me</link>
+<externallink>https://pastebin.com/raw/2FcxqG7i</externallink>
+http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/movies/fanart.PNG
+<info></info>
+</item>
+
+
+
+<item>
+<title>[COLOR lime][/COLOR][COLOR deepskyblue][B]DARK BOZ[/B][/COLOR][COLOR lightslategray]  INFANTIL [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://www.protoweb.cl/ProtoIPTV/img/infantil.png</thumbnail><fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
+<externallink>https://pastebin.com/raw/mss02yHR</externallink>
+</item>
 
 <item>
 <title>[COLOR white][B]DISKOKOSMICO.MX[/B][/COLOR] </title>
@@ -356,41 +408,6 @@
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>[COLOR blue][B]SUPER COLECCION/[/B][/COLOR][COLOR red][B]Latino/[/B][/COLOR][COLOR blue][B]SD[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title> [makelist.param3]</title>
-        <link>$doregex[getUrl]</link>
-        <thumbnail>http://eljevito.net/wp-content/uploads/2011/07/Peliculas-latino.png</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/IngArturo/super-coleccion-de-pelis-audio-latino-20342/list,1,11</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/IngArturo/super-coleccion-de-pelis-audio-latino-20342/list,1,11</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://eljevito.net/wp-content/uploads/2011/07/Peliculas-latino.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR white][B]»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»[/B][/COLOR]</title>
@@ -728,54 +745,9 @@
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<item>
-<title>[COLOR white][B]»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
-</item>
 
 <item>
-<title>[B][COLOR yellow]ANIMADOS Y SAGAS BOZ[/COLOR][/B]</title>
-<link>http://ignora.me</link>
-<externallink>https://pastebin.com/raw/XMwAL4Ms</externallink>
-http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/movies/fanart.PNG
-<info></info>
-</item>
-
-<item>
-<title>[COLOR aquamarine][B]Television 24/7[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param2]</title>
-<link>https://clutch.vaughnsoft.net/ord/vl/[makelist.param1].m3u8</link>
-<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
-]]></listrepeat>
-<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
-<page>https://vaughnlive.tv/browse/espanol&amp;a=mvn</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail></thumbnail><fanart></fanart>
-<info></info></item>
-
-
-
-
-<item>
-<title>[B][COLOR yellow]SPORTS-ON DEMAND[/COLOR][/B]</title>
-<link>http://ignora.me</link>
-<externallink>https://pastebin.com/raw/2FcxqG7i</externallink>
-http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/movies/fanart.PNG
-<info></info>
-</item>
-
-
-
-<item>
-<title>[COLOR lime][/COLOR][COLOR deepskyblue][B]DARK BOZ[/B][/COLOR][COLOR lightslategray]  INFANTIL [/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://www.protoweb.cl/ProtoIPTV/img/infantil.png</thumbnail><fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
-<externallink>https://pastebin.com/raw/TkZea8Uw</externallink>
+<title>[COLOR lime][/COLOR][COLOR deepskyblue][B]DARK[/B][/COLOR][COLOR lightslategray]  ONLINE [/COLOR]</title>
+<link>http://ignorame</link><thumbnail></thumbnail><fanart></fanart>
+<externallink>https://pastebin.com/raw/4MMDUpS0</externallink>
 </item>
