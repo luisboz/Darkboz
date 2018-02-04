@@ -35,20 +35,6 @@
 <info></info></item>
 
 
-
-<item>
-<title>[COLOR red][COLOR  lime]•TELEVISION [/COLOR] ONLINE [/COLOR]</title>
-<link>http://ignorame</link><thumbnail></thumbnail><fanart></fanart>
-<externallink>https://pastebin.com/raw/ch2eaW1A</externallink>
-<info></info></item>
-
-<item>
-<title>[COLOR red][COLOR  lime]•DARK [/COLOR] DEPORTES [/COLOR]</title>
-<link>http://ignorame</link><thumbnail></thumbnail><fanart></fanart>
-<externallink>https://goo.gl/jhQVWm</externallink>
-<info></info></item>
-
-
 <item>
 <title>[COLOR white][B]CANALES MIXTOS[/B][/COLOR]</title>
 <link>http://ignora.me</link>
@@ -120,7 +106,7 @@
 <item>
 <title>[COLOR white][B]LISTAS DE IPTV[/B][/COLOR]</title>
 <link>http://ignora.me</link>
-<externallink>https://pastebin.com/raw/UGBGPay7</externallink>
+<externallink>https://pastebin.com/raw/2MVvxTth</externallink>
 <thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
 <info></info>
 
@@ -153,7 +139,20 @@
 </item>
 
 <item>
-<title>[B][COLOR yellow]ANIMADOS Y SAGAS BOZ[/COLOR][/B]</title>
+<title>[COLOR red][COLOR  lime]•TELEVISION [/COLOR] ONLINE [/COLOR]</title>
+<link>http://ignorame</link><thumbnail></thumbnail><fanart></fanart>
+<externallink>https://pastebin.com/raw/ch2eaW1A</externallink>
+<info></info></item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•DARK [/COLOR] DEPORTES [/COLOR]</title>
+<link>http://ignorame</link><thumbnail></thumbnail><fanart></fanart>
+<externallink>https://goo.gl/jhQVWm</externallink>
+<info></info></item>
+
+
+<item>
+<title>[B][COLOR yellow]•ANIMADOS Y SAGAS BOZ[/COLOR][/B]</title>
 <link>http://ignora.me</link>
 <externallink>https://pastebin.com/raw/XMwAL4Ms</externallink>
 http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/movies/fanart.PNG
@@ -161,7 +160,7 @@ http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/m
 </item>
 
 <item>
-<title>[COLOR aquamarine][B]TELEVISION 24/7[/B][/COLOR]</title>
+<title>[COLOR aquamarine][B]•TELEVISION 24/7[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -183,7 +182,7 @@ http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/m
 
 
 <item>
-<title>[B][COLOR yellow]SPORTS-ON DEMAND[/COLOR][/B]</title>
+<title>[B][COLOR yellow]•SPORTS-ON DEMAND[/COLOR][/B]</title>
 <link>http://ignora.me</link>
 <externallink>https://pastebin.com/raw/2FcxqG7i</externallink>
 http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/movies/fanart.PNG
@@ -745,20 +744,3 @@ http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/m
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
-
-<item>
-<title>LOS SIMPSOMS 24/7</title>
-<sportsdevil>http://latino-webtv.com/Los-Simpsoms-24-Horas/</sportsdevil>
-<referer>http://latino-webtv.com/</referer>
-<thumbnail></thumbnail>
-</item>
-
-======================================================================
-
-
-<item>
-<title>TNT</title>
-<sportsdevil>http://www.vercanalestv.com/tnt-en-vivo-latino-por-internet-gratis/</sportsdevil>
-<referer>http://www.vercanalestv.com</referer>
-<thumbnail></thumbnail>
-</item>
