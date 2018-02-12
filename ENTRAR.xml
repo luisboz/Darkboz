@@ -36,9 +36,16 @@
 
 
 <item>
-<title>[COLOR white][B]CANALES MIXTOS[/B][/COLOR]</title>
+<title>[COLOR white][B]RAGNAROKTV[/B][/COLOR]</title>
 <link>http://ignora.me</link>
-<externallink>https://pastebin.com/raw/agY57p2z</externallink>
+<externallink>http://www.ragnaroktv.com/tv/lista.m3u</externallink>
+<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<info></info>
+
+<item>
+<title>[COLOR white][B]LISTA MIXTA[/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>https://pastebin.com/raw/PjccCH2V</externallink>
 <thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
 <info></info>
 
@@ -50,9 +57,16 @@
 <info></info>
 
 <item>
+<title>[COLOR white][B]TECNOTV KIDS[/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://tecnotv.xyz/kids.m3u</externallink>
+<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<info></info>
+
+<item>
 <title>[COLOR white][B]PELICULAS CECEGEEK[/B][/COLOR]</title>
 <link>http://ignora.me</link>
-<externallink>https://pastebin.com/raw/1Xt8FaAD</externallink>
+<externallink>http://cecegeek.com/movies.m3u</externallink>
 <thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
 <info></info>
 
@@ -197,6 +211,11 @@ http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/m
 <externallink>https://pastebin.com/raw/mss02yHR</externallink>
 </item>
 
+<item>
+<title>[COLOR white][B]»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»[/B][/COLOR]</title>
+<link>http://diskokosmiko.mx</link>
+<thumbnail></thumbnail>
+</item>
 <item>
 <title>[COLOR white][B]DISKOKOSMICO.MX[/B][/COLOR] </title>
 <link>$doregex[makelist3]</link>
@@ -401,12 +420,6 @@ http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/m
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<item>
-<title>[COLOR white][B]»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
-</item>
-
 
 <item>
 <title>[COLOR white][B]»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»[/B][/COLOR]</title>
