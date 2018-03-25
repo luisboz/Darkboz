@@ -36,9 +36,16 @@
 
 
 <item>
+<title>[COLOR white][B]PELICULAS GORILATV [/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://gorilatv.club/peliculas.m3u</externallink>
+<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<info></info>
+
+<item>
 <title>[COLOR white][B]RAGNAROKTV[/B][/COLOR]</title>
 <link>http://ignora.me</link>
-<externallink>http://www.ragnaroktv.com/tv/lista.m3u</externallink>
+<externallink>http://ragnaroktv.com/tv/lista.m3u</externallink>
 <thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
 <info></info>
 
@@ -113,7 +120,7 @@
 <thumbnail>https://cdn3.f-cdn.com/contestentries/1052684/25287837/5946e28751eb2_thumb420.jpg</thumbnail>
 <fanart>https://cdn3.f-cdn.com/contestentries/1052684/24142075/5946760abfbea_thumb900.jpg</fanart>
 <link>ignoreme.me</link>
-<externallink>https://pastebin.com/raw/TyApappB</externallink>
+<externallink>https://pastebin.com/raw/nLhYEZN9</externallink>
 </item>
 
 
@@ -757,3 +764,32 @@ http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/m
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
+
+<item>
+<title>[B][COLOR yellow][ + ] [/COLOR][/B][B][COLOR deepskyblue] NBA ( RESUMENES ) [/B][/COLOR][COLOR lime][I] -  [/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://a1933.phobos.apple.com/us/r30/Purple4/v4/12/bc/9b/12bc9bd1-f479-1125-95bd-20f83c53c579/mzl.edkriezg.256x256-75.png</thumbnail>
+<fanart>https://i.imgur.com/GFbc9Bp.jpg</fanart>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR lime][makelist.param1][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>http://a1933.phobos.apple.com/us/r30/Purple4/v4/12/bc/9b/12bc9bd1-f479-1125-95bd-20f83c53c579/mzl.edkriezg.256x256-75.png</thumbnail>
+						<fanart>https://i.imgur.com/GFbc9Bp.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=RjAOnc1xaLA&amp;list=PLKOK9PD9MJYliV2PWBLgN45UhGGd2lZ2i</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+
+
+<item>
+<title>[B][COLOR yellow][ + ] [/COLOR][/B][B][COLOR deepskyblue] Dragon Ball Super ( Sub.Esp)[/COLOR][/B][B][COLOR lime][I] - Ultimo cap.127 [/I][/COLOR][/B]</title>
+<thumbnail>https://i.imgur.com/HmXfSgj.jpg</thumbnail>
+<fanart>https://i.imgur.com/DGQusQh.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/3H1eeTfX</externallink>
+</item>
