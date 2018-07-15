@@ -36,23 +36,30 @@
 
 
 <item>
-<title>[COLOR white][B]PELICULAS GORILATV [/B][/COLOR]</title>
+<title>[COLOR white][B]DEPORTES Y CANALES 24/7 [/B][/COLOR]</title>
 <link>http://ignora.me</link>
-<externallink>http://gorilatv.club/peliculas.m3u</externallink>
+<externallink>https://pastebin.com/raw/P7BEGxd0</externallink>
 <thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
 <info></info>
 
 <item>
-<title>[COLOR white][B]RAGNAROKTV[/B][/COLOR]</title>
+<title>[COLOR white][B]PELIS MULTIMEDIA [/B][/COLOR]</title>
 <link>http://ignora.me</link>
-<externallink>http://ragnaroktv.com/tv/lista.m3u</externallink>
+<externallink>http://www.micentromultimedia.com/listas/peliculas.m3u</externallink>
 <thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
 <info></info>
 
 <item>
-<title>[COLOR white][B]LISTA MIXTA[/B][/COLOR]</title>
+<title>[COLOR white][B]LISTA SRREGIO[/B][/COLOR]</title>
 <link>http://ignora.me</link>
-<externallink>https://pastebin.com/raw/PjccCH2V</externallink>
+<externallink>https://srregio.xyz/IPTV/regioflix.m3u</externallink>
+<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<info></info>
+
+<item>
+<title>[COLOR white][B]TECNOLISTA[/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://tecnotv.xyz/lista.m3u</externallink>
 <thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
 <info></info>
 
@@ -64,9 +71,9 @@
 <info></info>
 
 <item>
-<title>[COLOR white][B]TECNOTV KIDS[/B][/COLOR]</title>
+<title>[COLOR white][B]ANCHO PELIS[/B][/COLOR]</title>
 <link>http://ignora.me</link>
-<externallink>http://tecnotv.xyz/kids.m3u</externallink>
+<externallink>http://www.achotv.com/listas/peliculas.m3u</externallink>
 <thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
 <info></info>
 
@@ -74,6 +81,13 @@
 <title>[COLOR white][B]PELICULAS CECEGEEK[/B][/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>http://cecegeek.com/movies.m3u</externallink>
+<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<info></info>
+
+<item>
+<title>[COLOR white][B]ANCHO XXX [/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://www.achotv.com/listas/canales-x.m3u</externallink>
 <thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
 <info></info>
 
@@ -181,13 +195,13 @@ http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/m
 </item>
 
 <item>
-<title>[COLOR aquamarine][B]•TELEVISION 24/7[/B][/COLOR]</title>
+<title>[B]TELEVISION 24/7[/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[makelist.param2]</title>
-<link>https://clutch.vaughnsoft.net/ord/vl/[makelist.param1].m3u8</link>
+<link>https://mp4.vaughnsoft.net/live?app=live&amp;port=2935&amp;stream=live_[makelist.param1]|Referer=https://vaughnlive.tv/</link>
 <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
 ]]></listrepeat>
 <expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
@@ -196,8 +210,8 @@ http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/m
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail><fanart></fanart>
-<info></info></item>
+<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/247.png</thumbnail><fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/fanart.jpg</fanart>
+</item>
 
 
 
