@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+ <item>
+<title>          [B][COLOR yellow]C O R T E S I A[/COLOR][COLOR deepskyblue]   L U I S [/COLOR][COLOR red] B O Z  [/COLOR][/B] </title>
+<link>http://ignora.me</link>
+<externallink>http://legionworldtv.com/</externallink>
+<thumbnail></thumbnail><fanart></fanart>
+</item>
+ <item>
+<title>          [B][COLOR yellow]NO TE OLVIDES DE[/COLOR][COLOR deepskyblue] SUBSCRIBER[/COLOR][COLOR white]  A MI CANAL[/COLOR][/B] </title>
+<link>http://ignora.me</link>
+<externallink>http://frepo.org/stalker.m3u</externallink>
+<thumbnail></thumbnail><fanart></fanart>
+</item>
+ <item>
+<title>          [B][COLOR red]http://[/COLOR][COLOR lime]https://www.youtube.com/user/LUISMMBOZ[/COLOR][/B] </title>
+<link>http://ignora.me</link>
+<externallink>http://frepo.org/stalker.m3u</externallink>
+<thumbnail></thumbnail><fanart></fanart>
+</item>
+
+
+
+
+
+<item>
+
+<title>   [B][COLOR lime]»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»[/COLOR][/B]</title>
+<link>NA</link>
+<thumbnail></thumbnail>
+<fanart>https://goo.gl/Wbhu75</fanart><info>[B][COLOR skyblue]»»»   D A R K B O Z  «««[/COLOR]
+[COLOR aquamarine]http://youtube.com/LUISMMBOZ[/COLOR][/B]</info></item>
+<info></info></item>
+
+
+<item>
+<title>[COLOR white][B]DEPORTES Y CANALES 24/7 [/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>https://pastebin.com/raw/P7BEGxd0</externallink>
+<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<info></info>
+
+<item>
+<title>[COLOR white][B]PELIS MULTIMEDIA [/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://www.micentromultimedia.com/listas/peliculas.m3u</externallink>
+<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<info></info>
+
+<item>
+<title>[COLOR white][B]LISTA SRREGIO[/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>https://srregio.xyz/IPTV/regioflix.m3u</externallink>
+<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<info></info>
+
+<item>
+<title>[COLOR white][B]TECNOLISTA[/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://tecnotv.xyz/lista.m3u</externallink>
+<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<info></info>
+
+<item>
+<title>[COLOR white][B]CANALES TECNOTV[/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://tecnotv.xyz/peliculas.m3u</externallink>
+<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<info></info>
+
+<item>
+<title>[COLOR white][B]ANCHO PELIS[/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://www.achotv.com/listas/peliculas.m3u</externallink>
+<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<info></info>
+
+<item>
+<title>[COLOR white][B]PELICULAS CECEGEEK[/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://cecegeek.com/movies.m3u</externallink>
+<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<info></info>
+
+<item>
+<title>[COLOR white][B]ANCHO XXX [/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://www.achotv.com/listas/canales-x.m3u</externallink>
+<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<info></info>
+
+<item>
+<title>[COLOR white][B]CANALES DE PREMIUM[/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>https://pastebin.com/raw/LL87vwR8</externallink>
+<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<info></info>
+
+<item>
+<title>[COLOR white][B]SERIES Y PELICULAS[/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>https://pastebin.com/raw/auR4CFYi</externallink>
+<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<info></info>
+
+<item>
+<title>[COLOR white][B]CINEMA FLUXUS[/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/cinema.m3u</externallink>
+<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<info></info>
+
+<item>
+<title>[COLOR white][B]IPTV FLUXUS[/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u</externallink>
+<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<info></info>
+
+
+<item>
+
+<title>[B][COLOR dodgerblue]I P T V  D A R K B O Z   A D D O N[/COLOR][/B]</title>
+<link>NA</link>
+<thumbnail></thumbnail>
+<fanart>https://goo.gl/Wbhu75</fanart><info>[B][COLOR skyblue]»»»   D A R K B O Z  «««[/COLOR]
+[COLOR aquamarine]http://youtube.com/LUISMMBOZ[/COLOR][/B]</info></item>
+<info></info></item>
+
+<item>
+<title>[B][COLOR deepskyblue]IPTV CHANNEL-[/COLOR][/B]NEW LIST</title>
+<thumbnail>https://cdn3.f-cdn.com/contestentries/1052684/25287837/5946e28751eb2_thumb420.jpg</thumbnail>
+<fanart>https://cdn3.f-cdn.com/contestentries/1052684/24142075/5946760abfbea_thumb900.jpg</fanart>
+<link>ignoreme.me</link>
+<externallink>https://pastebin.com/raw/nLhYEZN9</externallink>
+</item>
+
+
+<tem>
+    <title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]LiveNetTV[/I][/B][/COLOR][COLOR darkred][B][I][B] (Ch) [/I][/B][/COLOR]</title>
+    <link>ignorme</link>
+    <jsonrpc>plugin://script.module.tvone1111</jsonrpc>
+    <thumbnail>https://i.ytimg.com/vi/Op4BOpgGcME/maxresdefault.jpg</thumbnail>
+</item>
+
+<tem>
+    <title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]Mobdro[/I][/B][/COLOR][COLOR darkred][B][I][B] (Ch) [/I][/B][/COLOR]</title>
+    <link>ignorme</link>
+    <jsonrpc>plugin://script.module.deceit-mobdro</jsonrpc>
+    <thumbnail>https://bestkodiaddons.info/wp-content/uploads/2018/06/How-To-Install-Modbro-Kodi-Addon-bookmark-Repo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]Cable[/I][/B][/COLOR][COLOR darkred][B][I][B] (Gratis) [/I][/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://cablegratis.tv/logos/cable-gratis-tv.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[makelist.param2]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[<a\s*href="([^"]+)"\s*class="card"\s*title="([^"]+)">\s*<img\s*src="([^"]+)]]></expres>
+<page>http://cablegratis.tv/</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  source=requests.get('[makelist.param1]', headers={'User-Agent':'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0','Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'}).text;link=re.findall('iframe.*?src="(.*?)"',source)[0]
+  source=requests.get(link,headers={'User-Agent':'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0','Referer':'http://cablegratis.tv/','Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'}).text;return re.findall('source: "(.*?)"',source)[0]+'|User-Agent=iPad&Referer='+link
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+ <item>
+<title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]LIKE[/I][/B][/COLOR][COLOR darkred][B][I][B] (TV) [/I][/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+ <link>$doregex[geturl]|Referer=https://streamcdn.co/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0</link>
+    <regex>
+        <name>geturl</name>
+        <expres>"(http.*?)"</expres>
+        <page>$doregex[getunpacked]</page>
+		<referer>http://www.liketvw.com/</referer>
+        <connection>keep-alive</connection>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+        <page>http://streamcdn.co/e/$doregex[canal]</page>
+        <referer>http://www.liketvw.com/</referer>
+        <connection>keep-alive</connection>
+    </regex>
+	 <regex>
+        <name>canal</name>
+        <expres>\/e\/(.*?)"</expres>
+   <page>http://www.liketvw.com/embed/$doregex[temp]</page>
+   <referer>http://www.liketvw.com</referer>
+   <cookieJar/>
+</regex>
+<regex> 
+   <name>temp</name>   
+   <expres>\"\>id=\"(.*?)\"</expres>  
+   <page>http://www.liketvw.com[makelist.param1]</page>
+   <cookieJar/>
+</regex>
+]]></listrepeat>
+<expres><![CDATA[href="(\/chan.*?)"[\w\W\w]{0,155}src="(.*?)"[\w\W\s]{0,45}h4>(.*?)<]]></expres>
+<page>http://www.liketvw.com</page>
+</regex>
+
+<thumbnail>http://www.liketvw.com/liketv.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<tem>
+<title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]Cable[/I][/B][/COLOR][COLOR darkred][B][I][B] (Gratis) [/I][/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://cablegratis.tv/logos/cable-gratis-tv.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[makelist.param2]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[<a\s*href="([^"]+)"\s*class="card"\s*title="([^"]+)">\s*<img\s*src="([^"]+)]]></expres>
+<page>http://cablegratis.tv/</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+  import re, requests
+  id = re.findall("id='([^']+)';", page_data)[0]
+  eurl = 'https://player.limpi.tv/embed/U2FsdGVkX1%2FVBJ6ZdT3l%2FDef9VSzUI4%2BCI7EjYJ0FzY%3D/{}'.format(id)
+  headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1',
+             'Referer': 'http://cablegratis.tv/'}
+  html = requests.get(eurl, headers=headers,verify=False).text
+  strurl = re.findall('source: "([^"]+)', html)[0]
+  return '{}|User-Agent={}&Referer=https://player.limpi.tv/'.format(strurl, headers['User-Agent'])
+]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+</item>
+
+
+<tem>
+<title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]Televiendo[/I][/B][/COLOR][COLOR darkred][B][I][B] (Ch) [/I][/B][/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[makelist2.param2]</title>
+ <link>$doregex[m3u8]|user-agent=iPad</link>
+ <thumbnail>[makelist2.param1]</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[src="(.*?)"[\w\W]*?title">(.*?)<[\w\W]*?href="(.*?)"]]></expres>
+<page>https://televiendo.com/pages/canales.php?cid=54</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+src="(.*?)"[\w\W]*?a href="([^"]*)">\s(.*?)<
+<regex>
+<name>m3u8</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('file: "(.*?)"',page_data)[0]
+]]></expres>
+<page>[makelist2.param3]</page>
+<referer>[makelist2.param3]</referer>
+<thumbnail>http://www.televiendo.com/img/favicon.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]vaughnlive[/I][/B][/COLOR][COLOR darkred][B][I][B] (24/7) [/I][/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+<link>https://mp4v.vaughnsoft.net/play/live_[makelist.param1].flv|referer=https://vaughn.live/</link>
+<thumbnail>http:[makelist.param2]</thumbnail>
+<fanart>http:[makelist.param2]</fanart>
+]]></listrepeat>
+<expres>browsePageStreamBox.*?\s.*href="/([^"]+)".*?data-src="([^"]+)[\w\W]*?account">\s*([^<\s]+).*</expres>
+<page>https://vaughn.live/browse/espanol</page>
+<referer>https://vaughn.live/</referer>
+<cookieJar></cookieJar>
+<connection>keep-alive</connection>
+<thumbnail>http://www.redeneobux.com/wp-content/uploads/2015/09/vaughn-live-tv-addon-plugin-xbmc-kodi1.png</thumbnail>
+</regex>
+</item>
+
+<tem>
+<title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]vaughnlive[/I][/B][/COLOR][COLOR darkred][B][I][B] (24/7) [/I][/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.allianceloader/?iconimage=http%3a%2f%2fwww.redeneobux.com%2fwp-content%2fuploads%2f2015%2f09%2fvaughn-live-tv-addon-plugin-xbmc-kodi1.png&amp;mode=17&amp;regexs=%7bu%27makelist%27%3a%20%7b%27cookiejar%27%3a%20%27%27%2c%20%27name%27%3a%20u%27makelist%27%2c%20%27listrepeat%27%3a%20u%27%5cr%5cn%3ctitle%3e%5bmakelist.param2%5d%3c%2ftitle%3e%5cr%5cn%3clink%3ehttps%3a%2f%2fmp4-rem.vaughnsoft.net%2fplay%2flive_%5bmakelist.param1%5d.flv%3f%26amp%3bsecure%3d4K-byFwiC0KJRRyQrfbCWA%26amp%3bexpires%3d1551502383%26amp%3bip%3d71.192.197.134%7creferer%3dhttps%3a%2f%2fvaughn.live%2f%3c%2flink%3e%5cr%5cn%3cthumbnail%3ehttp%3a%2f%2fcdn.vaughnsoft.com%2fvaughnsoft%2fvaughn%2fimg_profiles%2f%5bmakelist.param2%5d_320.jpg%3c%2fthumbnail%3e%5cr%5cn%27%2c%20%27connection%27%3a%20u%27keep-alive%27%2c%20%27expres%27%3a%20u%27href%3d%22%2f(%5b%5e%22%5d%2b)%22%5b%5c%5cw%5c%5cW%5d%2a%3faccount%22%3e.%2a%3f%5c%5cs%2a(.%2a%3f)%5c%5cs%2a%3c%27%2c%20%27referer%27%3a%20u%27https%3a%2f%2fvaughn.live%2f%27%2c%20%27page%27%3a%20u%27https%3a%2f%2fvaughn.live%2fbrowse%2fespanol%27%7d%7d&amp;url=%24doregex%5bmakelist%5d</jsonrpc>
+<thumbnail>http://www.redeneobux.com/wp-content/uploads/2015/09/vaughn-live-tv-addon-plugin-xbmc-kodi1.png</thumbnail>
+</item>
+
+https://vaughnlive.tv/browse/espanol&amp;a=mvn
+<tem>
+<title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]Ustreamix[/I][/B][/COLOR][COLOR darkred][B][I][B] (ch) [/I][/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>https://www.socialcreator.com/srv/imgs/ti_imgs/6270_10039.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist.param2]  [COLOR yellow][B][I][B][makelist.param3][/I][/B][/COLOR]</title>
+<link>$doregex[get-url]</link>
+<referer>https://ssl.ustreamix.com/</referer>
+<regex>
+<name>get-url</name>
+<expres>$pyFunction:xbmc.executebuiltin('Container.Update(plugin://plugin.video.Sportevil/?mode=1&amp;item=catcher%3Dstreams%26url=https://ssl.ustreamix.com/[makelist.param1])')</expres>-->
+<NOTPlayable>True</NOTPlayable>
+<page></page>
+<thumbnail>https://www.socialcreator.com/srv/imgs/ti_imgs/6270_10039.png</thumbnail>
+<fanart>https://www.socialcreator.com/srv/imgs/ti_imgs/6270_10039.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="(.*?)".*?blank">(.*?)\s*<.*?live">(.*?)<]]></expres>
+<page>https://ssl.ustreamix.com/</page>
+<referer></referer>
+<listrepeat></listrepeat> 
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR yellow]•SPORTS-ON DEMAND[/COLOR][/B]</title>
+<link>http://ignora.me</link>
+<externallink>https://pastebin.com/raw/2FcxqG7i</externallink>
+http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/movies/fanart.PNG
+<info></info>
+</item>
+
+
+
+<item>
+<title>[COLOR lime][/COLOR][COLOR deepskyblue][B]DARK BOZ[/B][/COLOR][COLOR lightslategray]  INFANTIL [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://www.protoweb.cl/ProtoIPTV/img/infantil.png</thumbnail><fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
+<externallink>https://pastebin.com/raw/mss02yHR</externallink>
+</item>
+
+<item>
+<title>[COLOR white][B]»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»[/B][/COLOR]</title>
+<link>http://diskokosmiko.mx</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]DISKOKOSMICO.MX[/B][/COLOR] </title>
+<link>$doregex[makelist3]</link>
+
+<regex>
+  <name>makelist3</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR skyblue][makelist3.param2] - [makelist3.param3][/COLOR]</title>
+        <link>$doregex[makelist2]</link>
+<thumbnail>https://goo.gl/MXR3Uk</thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+        ]]></listrepeat>
+<expres>playlist:"(.*?)" name:"(.*?)" info:"(.*?)";</expres>
+<page>https://pastebin.com/raw/FrcMnuZp</page>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+
+
+<regex>
+  <name>makelist2</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR skyblue][makelist2.param2][/COLOR]</title>
+        <link>$doregex[makelist]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+        ]]></listrepeat>
+<expres>class="name" href="(.*?)">(.*?)<[\w\W\s]{0,190}src="(.*?)"</expres>
+<page>[makelist3.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx[makelist2.param1]/list,1,20</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx[makelist2.param1]/list,1,15</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail><fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»[/B][/COLOR]</title>
+<link>http://diskokosmiko.mx</link>
+<thumbnail></thumbnail>
+</item>
+
+ <item>
+<title>[COLOR white][B]SERIES EN AUDIO LATINO[/B][/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+  <name>makelist2</name>
+  <listrepeat><![CDATA[
+  <SetViewMode>55</SetViewMode>
+        <title>[makelist2.param1]</title>
+<link>$doregex[makelist]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+<fanart>[makelist2.param3]</fanart>
+]]></listrepeat>
+<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"</expres>
+<page>https://pastebin.com/raw/cztbre3i</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>$pyFunction:('[makelist.param3]').replace('Espa&#241;ol','')</title>
+        <link>$doregex[getUrl]</link>
+				<thumbnail>[makelist2.param3]</thumbnail>
+	<fanart>[makelist2.param3]</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>[makelist2.param2]/list,1,15</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>[makelist2.param4]/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>[makelist2.param4]/[makelist.param2]</page>
+<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][B]»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»[/B][/COLOR]</title>
+<link>http://diskokosmiko.mx</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white]CINE DE COMEDIA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/marcos20/peliculas-de-comedia-en-espanol-latino-17449/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/peliculas-comedia-castellanoel-rockero-30489/list,1,5</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLOR white][B]»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»[/B][/COLOR]</title>
+<link>http://diskokosmiko.mx</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white]CINE DE TERROR [/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/marcos20/peliculas-de-terror-en-espanol-latino-16623/list,1,3</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/marcos20/peliculas-de-terror-en-espanol-latino-16623/list,1,3</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»[/B][/COLOR]</title>
+<link>http://diskokosmiko.mx</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][B]CINE DE DRAMAS[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/marcos20/peliculas-de-drama-en-espanol-latino-18845/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/marcos20/peliculas-de-drama-en-espanol-latino-18845/list,1,2</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLOR white][B]»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»[/B][/COLOR]</title>
+<link>http://diskokosmiko.mx</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CINE VARIADO PART-1[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/INTERALIOS/peliculas-4976/list,1,4</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/INTERALIOS/peliculas-4976/list,1,4</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLOR white][B]»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»[/B][/COLOR]</title>
+<link>http://diskokosmiko.mx</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CINE VARIADO PART-2[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/IngArturo/super-coleccion-de-pelis-audio-latino-20342/list,1,10</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/IngArturo/super-coleccion-de-pelis-audio-latino-20342/list,1,10</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLOR white][B]»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»[/B][/COLOR]</title>
+<link>http://diskokosmiko.mx</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CINE VARIADO PART-3[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chinchetas/peliculas-espanol-32573/list,1,14</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/chinchetas/peliculas-espanol-32573/list,1,14</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLOR white][B]»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»[/B][/COLOR]</title>
+<link>http://diskokosmiko.mx</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CINE VARIADO PART-4[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail></thumbnail>
+        <fanart></fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/pelis-35575/list,1,5</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SeriesHD/pelis-35575/list,1,5<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLOR white][B]»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»[/B][/COLOR]</title>
+<link>http://diskokosmiko.mx</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CINE VARIADO PART-5[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red][/COLOR][COLOR white]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail></thumbnail>
+        <fanart></fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/pelis-2-45486/list,1,5</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SeriesHD/pelis-2-45486/list,1,5<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLOR white][B]»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»[/B][/COLOR]</title>
+<link>http://diskokosmiko.mx</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CINE VARIADO PART-6[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail></thumbnail>
+        <fanart></fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/pelis-3-50456/list,1,3</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SeriesHD/pelis-3-50456/list,1,3<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLOR white][B]»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»[/B][/COLOR]</title>
+<link>http://diskokosmiko.mx</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CINE VARIADO PART-7[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail></thumbnail>
+        <fanart></fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chicho306/pelis-22363/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/chicho306/pelis-22363/list,1,2<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+
+<item>
+<title>[B][COLOR yellow][ + ] [/COLOR][/B][B][COLOR deepskyblue] NBA ( RESUMENES ) [/B][/COLOR][COLOR lime][I] -  [/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://a1933.phobos.apple.com/us/r30/Purple4/v4/12/bc/9b/12bc9bd1-f479-1125-95bd-20f83c53c579/mzl.edkriezg.256x256-75.png</thumbnail>
+<fanart>https://i.imgur.com/GFbc9Bp.jpg</fanart>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR lime][makelist.param1][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>http://a1933.phobos.apple.com/us/r30/Purple4/v4/12/bc/9b/12bc9bd1-f479-1125-95bd-20f83c53c579/mzl.edkriezg.256x256-75.png</thumbnail>
+						<fanart>https://i.imgur.com/GFbc9Bp.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=RjAOnc1xaLA&amp;list=PLKOK9PD9MJYliV2PWBLgN45UhGGd2lZ2i</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+
+
+<item>
+<title>[B][COLOR yellow][ + ] [/COLOR][/B][B][COLOR deepskyblue] Dragon Ball Super ( Sub.Esp)[/COLOR][/B][B][COLOR lime][I] - Ultimo cap.127 [/I][/COLOR][/B]</title>
+<thumbnail>https://i.imgur.com/HmXfSgj.jpg</thumbnail>
+<fanart>https://i.imgur.com/DGQusQh.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/3H1eeTfX</externallink>
+</item>
