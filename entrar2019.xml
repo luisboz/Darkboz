@@ -36,55 +36,6 @@
 
 
 <item>
-<title>[COLOR white][B]DEPORTES Y CANALES 24/7 [/B][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>https://pastebin.com/raw/P7BEGxd0</externallink>
-<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
-<info></info>
-
-<item>
-<title>[COLOR white][B]PELIS MULTIMEDIA [/B][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>http://www.micentromultimedia.com/listas/peliculas.m3u</externallink>
-<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
-<info></info>
-
-<item>
-<title>[COLOR white][B]LISTA SRREGIO[/B][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>https://srregio.xyz/IPTV/regioflix.m3u</externallink>
-<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
-<info></info>
-
-<item>
-<title>[COLOR white][B]TECNOLISTA[/B][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>http://tecnotv.xyz/lista.m3u</externallink>
-<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
-<info></info>
-
-<item>
-<title>[COLOR white][B]CANALES TECNOTV[/B][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>http://tecnotv.xyz/peliculas.m3u</externallink>
-<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
-<info></info>
-
-<item>
-<title>[COLOR white][B]ANCHO PELIS[/B][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>http://www.achotv.com/listas/peliculas.m3u</externallink>
-<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
-<info></info>
-
-<item>
-<title>[COLOR white][B]PELICULAS CECEGEEK[/B][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>http://cecegeek.com/movies.m3u</externallink>
-<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
-<info></info>
-
-<item>
 <title>[B][I][B]nibbletv[/I][/B]</title>
 <link>$doregex[makelist]</link>				
 <regex>
@@ -155,7 +106,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 h3>(.*srregio.*?)<
 
-<tem>
+<item>
 <title>[B][I][B]tecnotv[/I][/B]</title>
 <link>$doregex[makelist]</link>				
 <regex>
@@ -188,7 +139,7 @@ h3>(.*srregio.*?)<
 </item>
 
 
-<tem>
+<item>
     <title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]LiveNetTV[/I][/B][/COLOR][COLOR darkred][B][I][B] (Ch) [/I][/B][/COLOR]</title>
     <link>ignorme</link>
     <jsonrpc>plugin://script.module.tvone1111</jsonrpc>
@@ -273,7 +224,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
-<tem>
+<item>
 <title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]Cable[/I][/B][/COLOR][COLOR darkred][B][I][B] (Gratis) [/I][/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>http://cablegratis.tv/logos/cable-gratis-tv.png</thumbnail>
@@ -305,7 +256,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-<tem>
+<item>
 <title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]Televiendo[/I][/B][/COLOR][COLOR darkred][B][I][B] (Ch) [/I][/B][/COLOR]</title>
 <link>$doregex[makelist2]</link>
 <regex>
@@ -361,7 +312,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 https://vaughnlive.tv/browse/espanol&amp;a=mvn
-<tem>
+
+<item>
 <title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]Ustreamix[/I][/B][/COLOR][COLOR darkred][B][I][B] (ch) [/I][/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://www.socialcreator.com/srv/imgs/ti_imgs/6270_10039.png</thumbnail>
@@ -387,7 +339,7 @@ https://vaughnlive.tv/browse/espanol&amp;a=mvn
 </regex>
 </item>
 
-<tem>
+<item>
 <title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]Free[/I][/B][/COLOR][COLOR darkred][B][I][B] (IPTV) [/I][/B][/COLOR]</title>
 <link>$doregex[makelist]</link>				
 <regex>
@@ -440,6 +392,7 @@ https://vaughnlive.tv/browse/espanol&amp;a=mvn
 </regex>
 </item>
 playlist.+?src='(.*?)'.+?href='(.*?)'.+?title'>(.*?)<
+
 <item>
 <title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]Arconaitv[/I][/B][/COLOR][COLOR darkred][B][I][B] (Ingles) [/I][/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -471,13 +424,7 @@ playlist.+?src='(.*?)'.+?href='(.*?)'.+?title'>(.*?)<
     </regex>
 </item>
 
-<tem>
-<title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]NBA[/I][/B][/COLOR][COLOR darkred][B][I][B] (Playoffs) [/I][/B][/COLOR]</title>
-<link>none</link>
-<externallink>http://dl.dropboxusercontent.com/s/fm542oknj85r5s4/nba.xml?dl=0</externallink>
-<thumbnail>https://www.sporttechie.com/wp-content/uploads/2015/10/NBA-League-Pass.png</thumbnail>
-<fanart></fanart>
-</item>
+
 
 <item>
 <title>[B][COLOR yellow]•SPORTS-ON DEMAND[/COLOR][/B]</title>
@@ -488,14 +435,71 @@ http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/m
 </item>
 
 
-
 <item>
-<title>[COLOR lime][/COLOR][COLOR deepskyblue][B]DARK BOZ[/B][/COLOR][COLOR lightslategray]  INFANTIL [/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://www.protoweb.cl/ProtoIPTV/img/infantil.png</thumbnail><fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
-<externallink>https://pastebin.com/raw/mss02yHR</externallink>
+<title>[B][I][B]NBA[/I][/B]</title>
+<link>none</link>
+<jsonrpc>plugin://plugin.video.allianceloader/?iconimage=http%3a%2f%2fcontent.sportslogos.net%2fnews%2f2017%2f07%2fNew-NBA-Logo-1.png&amp;mode=17&amp;regexs=%7bu%27makelist2%27%3a%20%7b%27listrepeat%27%3a%20u%27%5cr%5cn%20%3ctitle%3e%5bmakelist2.param2%5d%20vs%20%5bmakelist2.param3%5d%3c%2ftitle%3e%5cr%5cn%20%3clink%3e%24doregex%5bm3u8%5d%7cuser-agent%3diPad%3c%2flink%3e%5cr%5cn%20%3cthumbnail%3ehttp%3a%2f%2fnavdunk.com%2fteams%2f%5bmakelist2.param2%5d.png%3c%2fthumbnail%3e%5cr%5cn%20%27%2c%20%27expres%27%3a%20u%27a%20href%3d%22(.%2a%3f)%22%5b%5c%5cw%5c%5cW%5d%2a%3fsrc%3d.%2a%3fteams%5c%5c%2f(.%2a%3f).png.%2a%3fsrc%3d%22.%2a%3fteams%5c%5c%2f(.%2a%3f).png%27%2c%20%27name%27%3a%20u%27makelist2%27%2c%20%27agent%27%3a%20u%27Kodi%2f15.2%20(Windows%20NT%206.1)%20App_Bitness%2f32%20Version%2f15.2-Git%3a20151019-02e7013%27%2c%20%27page%27%3a%20u%27http%3a%2f%2fnavdunk.com%2freports%3fl%3dNBA%27%7d%2c%20u%27m3u8%27%3a%20%7b%27expres%27%3a%20u%27%23%24pyFunction%5cr%5cnimport%20re%5cr%5cndef%20GetLSProData(page_data%2cCookie_Jar%2cm)%3a%5cr%5cn%20%20return%20re.findall(%5c%27source%3a%20%22(.%2a%3f)%22%5c%27%2cpage_data)%5b0%5d%5cr%5cn%27%2c%20%27referer%27%3a%20u%27%5bmakelist2.param1%5d%27%2c%20%27name%27%3a%20u%27m3u8%27%2c%20%27page%27%3a%20u%27http%3a%2f%2fnavdunk.com%2f%5bmakelist2.param1%5d%27%7d%7d&amp;url=%24doregex%5bmakelist2%5d</jsonrpc>
+<thumbnail>http://content.sportslogos.net/news/2017/07/New-NBA-Logo-1.png</thumbnail>
+<fanart></fanart>
 </item>
 
+<item>
+<title>[B][I][B]NBA2[/I][/B]</title>
+<link>none</link>
+<jsonrpc>plugin://plugin.video.allianceloader/?iconimage=http%3a%2f%2fcontent.sportslogos.net%2fnews%2f2017%2f07%2fNew-NBA-Logo-1.png&amp;mode=17&amp;regexs=%7bu%27makelist2%27%3a%20%7b%27listrepeat%27%3a%20u%27%5cr%5cn%20%3ctitle%3e%5bmakelist2.param2%5d%3c%2ftitle%3e%5cr%5cn%20%3clink%3e%24doregex%5bm3u8%5d%7cuser-agent%3diPad%3c%2flink%3e%5cr%5cn%20%3cthumbnail%3e%3c%2fthumbnail%3e%5cr%5cn%20%27%2c%20%27expres%27%3a%20u%27entry-title%22%3e%3ca%5c%5cshref%3d%22(.%2a%3f)%22.%2a%3f%3e(.%2a%3f)%3c%27%2c%20%27name%27%3a%20u%27makelist2%27%2c%20%27agent%27%3a%20u%27Kodi%2f15.2%20(Windows%20NT%206.1)%20App_Bitness%2f32%20Version%2f15.2-Git%3a20151019-02e7013%27%2c%20%27page%27%3a%20u%27http%3a%2f%2fsport5.live%2fcategory%2fnba%2f%27%7d%2c%20u%27m3u8%27%3a%20%7b%27expres%27%3a%20u%27%23%24pyFunction%5cr%5cnimport%20re%5cr%5cndef%20GetLSProData(page_data%2cCookie_Jar%2cm)%3a%5cr%5cn%20%20return%20re.findall(%5c%27source%20src%3d%22(.%2a%3f)%22%5c%27%2cpage_data)%5b0%5d%5cr%5cn%27%2c%20%27referer%27%3a%20u%27%5bmakelist2.param1%5d%27%2c%20%27name%27%3a%20u%27m3u8%27%2c%20%27page%27%3a%20u%27%5bmakelist2.param1%5d%27%7d%7d&amp;url=%24doregex%5bmakelist2%5d</jsonrpc>
+<thumbnail>http://content.sportslogos.net/news/2017/07/New-NBA-Logo-1.png</thumbnail>
+<fanart></fanart>
+</item>
 
+<item>
+<title>[B][I][B]NBA3[/I][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[GetUrl]|User-Agent=iPad</link>
+        <thumbnail>http://content.sportslogos.net/news/2017/07/New-NBA-Logo-1.png</thumbnail>
+         <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[src="(.*?)"\salt=[\w\W]*?href="(.*?)".*?to\s(.*?)"]]></expres>
+<page>https://nbafullmatch.com/category/nba-stream/</page>
+<referer>https://nbafullmatch.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>GetUrl</name>
+<expres>hlsMasterPlaylistUrl.*?\;(https.*?)\\\&amp;</expres>
+<page>https:$doregex[embed]</page>
+<referer>https://nbafullmatch.com/</referer>
+<agent>iPad</agent>
+</regex>
+<regex>
+<name>embed</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[server]</page>
+<referer>https://nbafullmatch.com/</referer>
+<agent>iPad</agent>
+</regex>
+
+<regex>
+<name>server</name>
+<expres>class=.*?href="(.*?sever.*?)"</expres>
+<page>[makelist.param2]</page>
+<referer>https://nbafullmatch.com/</referer>
+<agent>iPad</agent>
+<thumbnail>http://content.sportslogos.net/news/2017/07/New-NBA-Logo-1.png</thumbnail>
+</regex>
+</item>
+
+<tem>
+<title>[B][I][B]NBA3[/I][/B]</title>
+<link>none</link>
+<jsonrpc>plugin://plugin.video.allianceloader/?iconimage=http%3a%2f%2fcontent.sportslogos.net%2fnews%2f2017%2f07%2fNew-NBA-Logo-1.png&amp;mode=17&amp;regexs=%7bu%27GetUrl%27%3a%20%7b%27expres%27%3a%20u%27hlsMasterPlaylistUrl.%2a%3f%5c%5c%3b(https.%2a%3f)%5c%5c%5c%5c%5c%5c%26%27%2c%20%27referer%27%3a%20u%27https%3a%2f%2fnbafullmatch.com%2f%27%2c%20%27name%27%3a%20u%27GetUrl%27%2c%20%27agent%27%3a%20u%27iPad%27%2c%20%27page%27%3a%20u%27https%3a%24doregex%5bembed%5d%27%7d%2c%20u%27makelist%27%3a%20%7b%27cookiejar%27%3a%20%27%27%2c%20%27name%27%3a%20u%27makelist%27%2c%20%27listrepeat%27%3a%20u%27%5cr%5cn%20%20%20%20%20%20%20%20%3ctitle%3e%5bmakelist.param3%5d%3c%2ftitle%3e%5cr%5cn%20%20%20%20%20%20%20%20%3cslproxy%3ehlsvariant%3a%2f%2f%24doregex%5bGetUrl%5d%7cUser-Agent%3diPad%3c%2fslproxy%3e%5cr%5cn%20%20%20%20%20%20%20%20%3cthumbnail%3e%5bmakelist.param2%5d%3c%2fthumbnail%3e%5cr%5cn%20%20%20%20%20%20%20%20%20%3cfanart%3e%5bmakelist.param2%5d%3c%2ffanart%3e%5cr%5cn%27%2c%20%27expres%27%3a%20u%27title%22%3e%3ca%20href%3d%22(.%2a%3f)%22.%2a%3fto%5c%5cs(.%2a%3f)%22%3e(.%2a%3f)%3c%27%2c%20%27referer%27%3a%20u%27https%3a%2f%2fnbafullmatch.com%2f%27%2c%20%27page%27%3a%20u%27https%3a%2f%2fnbafullmatch.com%2f%27%7d%2c%20u%27embed%27%3a%20%7b%27expres%27%3a%20u%27iframe.%2a%3fsrc%3d%22(.%2a%3f)%22%27%2c%20%27referer%27%3a%20u%27https%3a%2f%2fnbafullmatch.com%2f%27%2c%20%27name%27%3a%20u%27embed%27%2c%20%27agent%27%3a%20u%27iPad%27%2c%20%27page%27%3a%20u%27%24doregex%5bserver%5d%27%7d%2c%20u%27server%27%3a%20%7b%27expres%27%3a%20u%27class%3d.%2a%3fhref%3d%22(.%2a%3fsever.%2a%3f)%22%27%2c%20%27referer%27%3a%20u%27https%3a%2f%2fnbafullmatch.com%2f%27%2c%20%27name%27%3a%20u%27server%27%2c%20%27agent%27%3a%20u%27iPad%27%2c%20%27page%27%3a%20u%27%5bmakelist.param1%5d%27%7d%7d&amp;url=%24doregex%5bmakelist%5d</jsonrpc>
+<thumbnail>http://content.sportslogos.net/news/2017/07/New-NBA-Logo-1.png</thumbnail>
+<fanart></fanart>
+</item>
 
 
 
