@@ -85,11 +85,42 @@
 <info></info>
 
 <item>
-<title>[COLOR white][B]ANCHO XXX [/B][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>http://www.achotv.com/listas/canales-x.m3u</externallink>
-<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
-<info></info>
+<title>[B][I][B]nibbletv[/I][/B]</title>
+<link>$doregex[makelist]</link>				
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>$doregex[m3ulist]</link>
+<fanart>https://www.nibbletv.info/img/logo.png</fanart>
+<thumbnail>https://www.nibbletv.info/img/ch/tvplay.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+  import re
+  items = re.findall('var\s(lista[^\s]+)\s*=[^"]+"TV([^"]+)',page_data)
+  links = []
+  for title,url in items:
+    links.append((title,url.decode('hex')))
+  return links 
+]]></expres>
+<page>https://www.nibbletv.info/Lista-Gratis</page>
+</regex>
+<regex>
+<name>m3ulist</name>
+<listrepeat><![CDATA[
+<title>[m3ulist.param2]</title>
+<f4m>[m3ulist.param3]</f4m>
+<fanart>https://www.nibbletv.info/img/logo.png</fanart>
+<thumbnail>[m3ulist.param1]</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF.+?"([^"]+).+?,(.+)\n(.+)</expres>
+<page>[makelist.param2]</page>
+<referer>https://www.nibbletv.info/</referer>
+</regex>
+<fanart>hxxps://www.nibbletv.info/img/logo.png</fanart>
+<thumbnail>https://www.nibbletv.info/img/ch/tvplay.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR white][B]CANALES DE PREMIUM[/B][/COLOR]</title>
@@ -106,21 +137,40 @@
 <info></info>
 
 <item>
-<title>[COLOR white][B]CINEMA FLUXUS[/B][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/cinema.m3u</externallink>
-<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
-<info></info>
+<title>[B][I][B]Srregio[/I][/B]</title>
+<link>$doregex[makelist]</link>				
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>ignorme</link>
+<externallink>[makelist.param1]$$TSDOWNLOADER$$|User-Agent=VLC/2.2.1 LibVLC/2.2.17&amp;Icy-MetaData=1</externallink>
+<fanart>http://srregio.net/img/icon.png</fanart>
+]]></listrepeat>
+   <expres><![CDATA[highlight">(.*?m3u.*?)<]]></expres>
+   <page>http://srregio.net/#download</page>
+   <thumbnail>http://srregio.net/img/icon.png</thumbnail>
+   <cookieJar></cookieJar>
+</regex>
+</item>
+h3>(.*srregio.*?)<
 
-<item>
-<title>[COLOR white][B]IPTV FLUXUS[/B][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u</externallink>
-<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
-<info></info>
-
-
-<item>
+<tem>
+<title>[B][I][B]tecnotv[/I][/B]</title>
+<link>$doregex[makelist]</link>				
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>ignorme</link>
+<externallink>[makelist.param1]$$TSDOWNLOADER$$|User-Agent=VLC/2.2.1 LibVLC/2.2.17&amp;Icy-MetaData=1</externallink>
+]]></listrepeat>
+   <expres><![CDATA[name=".+?value="(.*?tecnotv.*?)"]]></expres>
+   <page>http://tecnotv.info/lremotas.htm</page>
+   <thumbnail>http://tecnotv.co/wp-content/uploads/2017/02/logo-tecno-tv@2x.png</thumbnail>
+   <cookieJar></cookieJar>
+</regex>
+</item>
 
 <title>[B][COLOR dodgerblue]I P T V  D A R K B O Z   A D D O N[/COLOR][/B]</title>
 <link>NA</link>
