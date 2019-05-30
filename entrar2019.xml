@@ -62,12 +62,12 @@ h3>(.*srregio.*?)<
 <info></info>
 
 <item>
-<title>[COLOR white][B]DARKBOZ FULL HD 1080P[/B][/COLOR]</title>
-<link>http://ignora.me</link>
+<title>[B][COLOR deepskyblue]DARKBOZ FULL HD 1080P[/COLOR][/B]NEW LIST</title>
+<thumbnail>https://cdn3.f-cdn.com/contestentries/1052684/25287837/5946e28751eb2_thumb420.jpg</thumbnail>
+<fanart>https://cdn3.f-cdn.com/contestentries/1052684/24142075/5946760abfbea_thumb900.jpg</fanart>
+<link>ignoreme.me</link>
 <externallink>https://dl.dropbox.com/s/d2wj6pv60z4tuzm/DHFULL.txt</externallink>
-<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
-<info></info>
-
+</item>
 
 
 <title>[B][COLOR dodgerblue]I P T V  D A R K B O Z   A D D O N[/COLOR][/B]</title>
@@ -102,39 +102,12 @@ h3>(.*srregio.*?)<
 </item>
 
 <item>
-    <title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]LiveNetTV[/I][/B][/COLOR][COLOR darkred][B][I][B] (Ch) [/I][/B][/COLOR]</title>
+    <title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]LIKE NET[/I][/B][/COLOR][COLOR darkred][B][I][B] (TV) [/I][/B][/COLOR]</title>
     <link>ignorme</link>
     <jsonrpc>plugin://script.module.tvone1111</jsonrpc>
     <thumbnail>https://i.ytimg.com/vi/Op4BOpgGcME/maxresdefault.jpg</thumbnail>
 </item>
 
-
-
-<item>
-<title>[COLOR white][B]CABLE GRATIS[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<thumbnail>http://cablegratis.tv/logos/cable-gratis-tv.png</thumbnail>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-  <title>[makelist.param2]</title>
-  <link>$doregex[getUrl]</link>
-  <thumbnail>[makelist.param3]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[<a\s*href="([^"]+)"\s*class="card"\s*title="([^"]+)">\s*<img\s*src="([^"]+)]]></expres>
-<page>http://cablegratis.tv/</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-import re,requests
-def GetLSProData(page_data,Cookie_Jar,m):
-  source=requests.get('[makelist.param1]', headers={'User-Agent':'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0','Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'}).text;link=re.findall('iframe.*?src="(.*?)"',source)[0]
-  source=requests.get(link,headers={'User-Agent':'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0','Referer':'http://cablegratis.tv/','Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'}).text;return re.findall('source: "(.*?)"',source)[0]+'|User-Agent=iPad&Referer='+link
-]]></expres>
-<page></page>
-</regex>
-</item>
 
  <item>
 <title>[COLOR RED][B]LIKE TV[/B][/COLOR]</title>
@@ -181,65 +154,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLOR green][/COLOR][COLOR yellow][B][I][B]CABLE[/I][/B][/COLOR][COLOR darkred][B][I][B] (GRATIS) [/I][/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<thumbnail>http://cablegratis.tv/logos/cable-gratis-tv.png</thumbnail>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-  <title>[makelist.param2]</title>
-  <link>$doregex[getUrl]</link>
-  <thumbnail>[makelist.param3]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[<a\s*href="([^"]+)"\s*class="card"\s*title="([^"]+)">\s*<img\s*src="([^"]+)]]></expres>
-<page>http://cablegratis.tv/</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-  import re, requests
-  id = re.findall("id='([^']+)';", page_data)[0]
-  eurl = 'https://player.limpi.tv/embed/U2FsdGVkX1%2FVBJ6ZdT3l%2FDef9VSzUI4%2BCI7EjYJ0FzY%3D/{}'.format(id)
-  headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1',
-             'Referer': 'http://cablegratis.tv/'}
-  html = requests.get(eurl, headers=headers,verify=False).text
-  strurl = re.findall('source: "([^"]+)', html)[0]
-  return '{}|User-Agent={}&Referer=https://player.limpi.tv/'.format(strurl, headers['User-Agent'])
-]]></expres>
-<page>[makelist.param1]</page>
-</regex>
-</item>
-
-
-<item>
-<title>[/COLOR][COLOR yellow][B][I][B]Televiendo[/I][/B][/COLOR][COLOR darkred][B][I][B] (Ch) [/I][/B][/COLOR]</title>
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
- <title>[makelist2.param2]</title>
- <link>$doregex[m3u8]|user-agent=iPad</link>
- <thumbnail>[makelist2.param1]</thumbnail>
- ]]></listrepeat>
-<expres><![CDATA[src="(.*?)"[\w\W]*?title">(.*?)<[\w\W]*?href="(.*?)"]]></expres>
-<page>https://televiendo.com/pages/canales.php?cid=54</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-src="(.*?)"[\w\W]*?a href="([^"]*)">\s(.*?)<
-<regex>
-<name>m3u8</name>
-<expres><![CDATA[#$pyFunction
-import re
-def GetLSProData(page_data,Cookie_Jar,m):
-  return re.findall('file: "(.*?)"',page_data)[0]
-]]></expres>
-<page>[makelist2.param3]</page>
-<referer>[makelist2.param3]</referer>
-<thumbnail>http://www.televiendo.com/img/favicon.png</thumbnail>
-</regex>
-</item>
 
 <item>
 <title>[/COLOR][COLOR yellow][B][I][B]VAUGHNLIVE[/I][/B][/COLOR][COLOR darkred][B][I][B] (24/7) [/I][/B][/COLOR]</title>
@@ -297,7 +211,7 @@ https://vaughnlive.tv/browse/espanol&amp;a=mvn
 </item>
 
 <item>
-<title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]Free[/I][/B][/COLOR][COLOR darkred][B][I][B] (IPTV) [/I][/B][/COLOR]</title>
+<title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]FREE[/I][/B][/COLOR][COLOR darkred][B][I][B] (IPTV) [/I][/B][/COLOR]</title>
 <link>$doregex[makelist]</link>				
 <regex>
 <name>makelist</name>
