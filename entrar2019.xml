@@ -104,7 +104,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
    <cookieJar></cookieJar>
 </regex>
 </item>
-h3>(.*srregio.*?)<
 
 <item>
 <title>[B][I][B]tecnotv[/I][/B]</title>
@@ -135,7 +134,7 @@ h3>(.*srregio.*?)<
 <thumbnail>https://cdn3.f-cdn.com/contestentries/1052684/25287837/5946e28751eb2_thumb420.jpg</thumbnail>
 <fanart>https://cdn3.f-cdn.com/contestentries/1052684/24142075/5946760abfbea_thumb900.jpg</fanart>
 <link>ignoreme.me</link>
-<externallink>https://pastebin.com/raw/nLhYEZN9</externallink>
+<externallink>https://dl.dropbox.com/s/7g8x9kv237c3u1z/CANALESFREETV22.txt</externallink>
 </item>
 
 
@@ -500,7 +499,14 @@ http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/m
 <thumbnail>http://content.sportslogos.net/news/2017/07/New-NBA-Logo-1.png</thumbnail>
 <fanart></fanart>
 </item>
-
-
+ 
+<channel>
+      <name>[COLOR orange][COLOR  lime]OPCION 1 [/COLOR] SECCION CISNEROS[/COLOR]</name>
+  <thumbnail>https://dl.dropbox.com/s/xcy2mz9j4msqbif/VIP.png</thumbnail>
+<fanart>https://dl.dropbox.com/s/mrequ74iuyv153w/VIPFONDO.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://dl.dropbox.com/s/5b3pn4191j6pf7v/CANALESFREETV.txt</externallink>
+</channel>
+  </channels
 
 
