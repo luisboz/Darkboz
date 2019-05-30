@@ -36,59 +36,7 @@
 
 
 <item>
-<title>[B][I][B]nibbletv[/I][/B]</title>
-<link>$doregex[makelist]</link>				
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>$doregex[m3ulist]</link>
-<fanart>https://www.nibbletv.info/img/logo.png</fanart>
-<thumbnail>https://www.nibbletv.info/img/ch/tvplay.png</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-  import re
-  items = re.findall('var\s(lista[^\s]+)\s*=[^"]+"TV([^"]+)',page_data)
-  links = []
-  for title,url in items:
-    links.append((title,url.decode('hex')))
-  return links 
-]]></expres>
-<page>https://www.nibbletv.info/Lista-Gratis</page>
-</regex>
-<regex>
-<name>m3ulist</name>
-<listrepeat><![CDATA[
-<title>[m3ulist.param2]</title>
-<f4m>[m3ulist.param3]</f4m>
-<fanart>https://www.nibbletv.info/img/logo.png</fanart>
-<thumbnail>[m3ulist.param1]</thumbnail>
-]]></listrepeat>
-<expres>#EXTINF.+?"([^"]+).+?,(.+)\n(.+)</expres>
-<page>[makelist.param2]</page>
-<referer>https://www.nibbletv.info/</referer>
-</regex>
-<fanart>hxxps://www.nibbletv.info/img/logo.png</fanart>
-<thumbnail>https://www.nibbletv.info/img/ch/tvplay.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white][B]CANALES DE PREMIUM[/B][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>https://pastebin.com/raw/LL87vwR8</externallink>
-<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
-<info></info>
-
-<item>
-<title>[COLOR white][B]SERIES Y PELICULAS[/B][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>https://pastebin.com/raw/auR4CFYi</externallink>
-<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
-<info></info>
-
-<item>
-<title>[B][I][B]Srregio[/I][/B]</title>
+<title>[B][I][B]SRREGIO[/I][/B]</title>
 <link>$doregex[makelist]</link>				
 <regex>
 <name>makelist</name>
@@ -104,23 +52,23 @@ def GetLSProData(page_data,Cookie_Jar,m):
    <cookieJar></cookieJar>
 </regex>
 </item>
+h3>(.*srregio.*?)<
 
 <item>
-<title>[B][I][B]tecnotv[/I][/B]</title>
-<link>$doregex[makelist]</link>				
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>ignorme</link>
-<externallink>[makelist.param1]$$TSDOWNLOADER$$|User-Agent=VLC/2.2.1 LibVLC/2.2.17&amp;Icy-MetaData=1</externallink>
-]]></listrepeat>
-   <expres><![CDATA[name=".+?value="(.*?tecnotv.*?)"]]></expres>
-   <page>http://tecnotv.info/lremotas.htm</page>
-   <thumbnail>http://tecnotv.co/wp-content/uploads/2017/02/logo-tecno-tv@2x.png</thumbnail>
-   <cookieJar></cookieJar>
-</regex>
-</item>
+<title>[COLOR white][B]CANALES DE PREMIUM[/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>https://dl.dropbox.com/s/5b3pn4191j6pf7v/CANALESFREETV.txt</externallink>
+<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<info></info>
+
+<item>
+<title>[COLOR white][B]DARKBOZ FULL HD 1080P[/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>https://dl.dropbox.com/s/d2wj6pv60z4tuzm/DHFULL.txt</externallink>
+<thumbnail></thumbnail><fanart>https://goo.gl/Wbhu75</fanart>
+<info></info>
+
+
 
 <title>[B][COLOR dodgerblue]I P T V  D A R K B O Z   A D D O N[/COLOR][/B]</title>
 <link>NA</link>
@@ -137,6 +85,21 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://dl.dropbox.com/s/7g8x9kv237c3u1z/CANALESFREETV22.txt</externallink>
 </item>
 
+<item>
+<title>[B][COLOR deepskyblue]DARK MOVIES-[/COLOR][/B]BOZ</title>
+<thumbnail>https://cdn3.f-cdn.com/contestentries/1052684/25287837/5946e28751eb2_thumb420.jpg</thumbnail>
+<fanart>https://cdn3.f-cdn.com/contestentries/1052684/24142075/5946760abfbea_thumb900.jpg</fanart>
+<link>ignoreme.me</link>
+<externallink>https://dl.dropbox.com/s/qd4u3td1z2g9kfj/SEIESPELICULAS.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]DARK DEPORTES-[/COLOR][/B]BOZ</title>
+<thumbnail>https://cdn3.f-cdn.com/contestentries/1052684/25287837/5946e28751eb2_thumb420.jpg</thumbnail>
+<fanart>https://cdn3.f-cdn.com/contestentries/1052684/24142075/5946760abfbea_thumb900.jpg</fanart>
+<link>ignoreme.me</link>
+<externallink>https://dl.dropbox.com/s/0fz4mjqaj4zqxgp/deportescisneros.txt</externallink>
+</item>
 
 <item>
     <title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]LiveNetTV[/I][/B][/COLOR][COLOR darkred][B][I][B] (Ch) [/I][/B][/COLOR]</title>
@@ -145,15 +108,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
     <thumbnail>https://i.ytimg.com/vi/Op4BOpgGcME/maxresdefault.jpg</thumbnail>
 </item>
 
-<tem>
-    <title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]Mobdro[/I][/B][/COLOR][COLOR darkred][B][I][B] (Ch) [/I][/B][/COLOR]</title>
-    <link>ignorme</link>
-    <jsonrpc>plugin://script.module.deceit-mobdro</jsonrpc>
-    <thumbnail>https://bestkodiaddons.info/wp-content/uploads/2018/06/How-To-Install-Modbro-Kodi-Addon-bookmark-Repo.jpg</thumbnail>
-</item>
+
 
 <item>
-<title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]Cable[/I][/B][/COLOR][COLOR darkred][B][I][B] (Gratis) [/I][/B][/COLOR]</title>
+<title>[COLOR white][B]CABLE GRATIS[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>http://cablegratis.tv/logos/cable-gratis-tv.png</thumbnail>
 <regex>
@@ -179,7 +137,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
  <item>
-<title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]LIKE[/I][/B][/COLOR][COLOR darkred][B][I][B] (TV) [/I][/B][/COLOR]</title>
+<title>[COLOR RED][B]LIKE TV[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -224,7 +182,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]Cable[/I][/B][/COLOR][COLOR darkred][B][I][B] (Gratis) [/I][/B][/COLOR]</title>
+<title>[COLOR green][/COLOR][COLOR yellow][B][I][B]CABLE[/I][/B][/COLOR][COLOR darkred][B][I][B] (GRATIS) [/I][/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>http://cablegratis.tv/logos/cable-gratis-tv.png</thumbnail>
 <regex>
@@ -256,7 +214,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]Televiendo[/I][/B][/COLOR][COLOR darkred][B][I][B] (Ch) [/I][/B][/COLOR]</title>
+<title>[/COLOR][COLOR yellow][B][I][B]Televiendo[/I][/B][/COLOR][COLOR darkred][B][I][B] (Ch) [/I][/B][/COLOR]</title>
 <link>$doregex[makelist2]</link>
 <regex>
 <name>makelist2</name>
@@ -284,7 +242,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]vaughnlive[/I][/B][/COLOR][COLOR darkred][B][I][B] (24/7) [/I][/B][/COLOR]</title>
+<title>[/COLOR][COLOR yellow][B][I][B]VAUGHNLIVE[/I][/B][/COLOR][COLOR darkred][B][I][B] (24/7) [/I][/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -313,7 +271,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 https://vaughnlive.tv/browse/espanol&amp;a=mvn
 
 <item>
-<title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]Ustreamix[/I][/B][/COLOR][COLOR darkred][B][I][B] (ch) [/I][/B][/COLOR]</title>
+<title>[/COLOR][COLOR yellow][B][I][B]Ustreamix[/I][/B][/COLOR][COLOR darkred][B][I][B] (ch) [/I][/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://www.socialcreator.com/srv/imgs/ti_imgs/6270_10039.png</thumbnail>
 <regex>
@@ -357,7 +315,7 @@ https://vaughnlive.tv/browse/espanol&amp;a=mvn
 </item>
 
 <item>
-<title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]Fluxus[/I][/B][/COLOR][COLOR darkred][B][I][B] (IPTV) [/I][/B][/COLOR]</title>
+<title>[/COLOR][COLOR yellow][B][I][B]FLUXUS[/I][/B][/COLOR][COLOR darkred][B][I][B] (IPTV) [/I][/B][/COLOR]</title>
 <link>$doregex[makelist]</link>				
 <regex>
 <name>makelist</name>
@@ -375,7 +333,7 @@ https://vaughnlive.tv/browse/espanol&amp;a=mvn
 </item>
 
 <item>
-<title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]DaZPlayer[/I][/B][/COLOR][COLOR darkred][B][I][B] (TV) [/I][/B][/COLOR]</title>
+<title>[/COLOR][COLOR yellow][B][I][B]DAZPLAYER[/I][/B][/COLOR][COLOR darkred][B][I][B] (TV) [/I][/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -393,7 +351,7 @@ https://vaughnlive.tv/browse/espanol&amp;a=mvn
 playlist.+?src='(.*?)'.+?href='(.*?)'.+?title'>(.*?)<
 
 <item>
-<title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]Arconaitv[/I][/B][/COLOR][COLOR darkred][B][I][B] (Ingles) [/I][/B][/COLOR]</title>
+<title>[COLOR green]ՠ[/COLOR][COLOR yellow][B][I][B]ARCONAITV[/I][/B][/COLOR][COLOR darkred][B][I][B] (Ingles) [/I][/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://raw.githubusercontent.com/piplongrun/arconaitv.bundle/master/Contents/Resources/icon-default.jpg</thumbnail>
 <fanart></fanart>
@@ -500,13 +458,6 @@ http://legionworldtv.com/master/movies/icon.PNGhttp://legionworldtv.com/master/m
 <fanart></fanart>
 </item>
  
-<channel>
-      <name>[COLOR orange][COLOR  lime]OPCION 1 [/COLOR] SECCION CISNEROS[/COLOR]</name>
-  <thumbnail>https://dl.dropbox.com/s/xcy2mz9j4msqbif/VIP.png</thumbnail>
-<fanart>https://dl.dropbox.com/s/mrequ74iuyv153w/VIPFONDO.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://dl.dropbox.com/s/5b3pn4191j6pf7v/CANALESFREETV.txt</externallink>
-</channel>
-  </channels
+
 
 
